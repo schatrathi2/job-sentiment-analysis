@@ -1,7 +1,8 @@
 import pandas as pd
 from IPython.display import clear_output
 
-df = pd.read_csv("annotate_data_2019.csv")
+year = 2019
+df = pd.read_csv(f"annotate_data_{year}.csv")
 def annotate(df):
     num = 1
     for i, row in df.iterrows():
@@ -16,4 +17,4 @@ def annotate(df):
         num += 1
 
 annotate(df)
-df.to_csv("annotated_data_2019.csv", index=False)
+df.to_csv(f"annotated_data_{year}.csv", index=False)
