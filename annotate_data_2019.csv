@@ -1,0 +1,583 @@
+id,subreddit,year,month,text
+bs7mvu,jobs,2019,5,Why do hiring managers do this?
+d6imv9,jobs,2019,9,"A simple way to make the job hunt a little more enjoyable | Hi all! I, like many of you, am suffering through the slog of trying to find a job. This entails sitting in various cafes 6 hours a day everyday applying to as many jobs as I can (and are relevant) until my head feels like it’ll explode if I have to write/edit one more cover letter. It also means constant prep for phone screenings, cleaning my room for video conference calls with potential employers, and trekking around the city going for interviews. Its strangely exhausting and stressful yet also often boring. 
+
+Something I’ve recently been doing to infuse a little fun into the process is exploring the area where my interview will be beforehand. I take the train over to where my interview is and it’s usually a new part of the city, so I’ve started to get there an hour or two early and walk around a bit, explore, go into shops or just see what the area has for me to check out. It makes me feel a lot better to have a little fun and I walk into my interview feeling a little lighter. 
+
+If you find that you have the time to do this, I highly recommend it!"
+calny9,cscareerquestions,2019,7,"So I just landed a work from home Software Developer internship to full-time employee position. What pay should I ask for? | So the title says it all. I am trying to get a feel for what the market pays for this kind of position. I will be working part time until I graduate in December, at which point I will become a full-time employee for this company. The hiring manager just asked what I expect for an hourly wage, and I am trying to get an idea of the pay ranges.
+
+I have worked as a software developer intern or exactly 1 year now. I have working experience in Python, Java, C#, and SQL. My first position in software development was a SQA position that involved lots of automating as well as adding of features to our SQA software suite. This was almost all done in Java. Currently, I am working as a Data Warehouse Intern, working exclusively with SQL and C#. I have been in this position for 6 months so far. The new company is a software/mobile app company and I will likely be starting in the SQA side of things, and moving to engineering when I get more familiar with their software and workflow. It was indicated to me that they do data science work as part of their stack, which I am very interested in and am actively pursuing. 
+
+I have tried looking at glassdoor, however the company is fairly new (a few years old), so not much information was found for their salaries in particular."
+eei3jk,cscareerquestions,2019,12,"Applied for grad SE role. Got bumped up | As the title says, I applied for a grad role at a large tech company, maybe not quite Big N but very large none the less. Did some aptitude/mental agility tests and then had a very casual in person interview, no coding / whiteboard tests involved. 
+
+Few days later I check the status of my application on their jobs portal and see a new second application listed for ""software engineer"" as being at the interview stage, with the grad role now no longer under consideration.
+
+Now, I'm not a 21 year old fresh out of college looking for my first job. I'm mid 30s, just completed part time degree, and have worked in a technology and management role for about 6 years. But the fact remains, I have never worked as a SE and I will be starting from scratch!! But sure enough, I get an offer email, and instead of it being a fixed term grad contract with grad salary, it's a full time permanent SE contract with SE salary.
+
+Naturally, I am over the moon. But also a little terrified that I've oversold myself, especially considering there was zero coding involved in the interview process! I think imposter syndrome is upon me, and I haven't even started my first day!
+
+Anyone have this kind of experience?"
+b8xk8s,cscareerquestions,2019,4,"How to avoid making your coworkers life miserable while maintaining some standards? | Our project is currently lacking engineering standards before I joined, and it's negatively affecting the quality of the operations in the longer term (out of hour calls from clients and taking long time to debug).   
+
+
+I've been reviewing all the pull requests. Any issues I find I usually talk to the developer on a one-on-one basis without rejecting the PR. However, this apparently is making my coworkers life hell and I am quickly becoming that one unpopular guy. So PRs are often requested to another dev who gladly approves everything.
+
+  
+While I agree that nitpicking / micro managing someone's work is not a good idea, I personally think I am quite liberal on the issues I asked them to fix.
+
+&#x200B;
+
+Two examples:
+
+&#x200B;
+
+1. A developer built a convoluted logic which appears to be functioning. No unit test cases whatsoever. On the pull request, I asked him to add a short Java doc comment on top of the primary functions, so we can quickly identify the business logic in order to debug them in the future.He tells me that this is out of the scope of the change, and a new JIRA and a new branch would need to be created.
+
+&#x200B;
+
+2. A developer built a data service API that make 6 wild card SQL calls on the same table, put them into 6 arrays, and loop through each of them while filtering the data out one at a time into another list. I asked him to make 1 SQL call and use the WHERE clause, so we can avoid making unnecessary calls to the DB. And he refuses to do it as the logic is working as intended, he doesn't have time to deal with it, and will fix later (probably never).
+
+   
+
+Our developers here work at most 7 hours a day. We don't have crunch time. And project deadline is very liberal as we're swimming in cash. What should I do here without coming across as someone who is difficult to work with?  "
+ayccwz,jobs,2019,3,"I fucked up and majored in something useless, how can I get a well paying job (60k +)? | 
+I was a dumbass and majored in chemistry. I was a first gen college student and didn't do my research. Its a useless major unless you get more schooling and I don't want to go to med school/PA school/nursing school.
+
+Keeping that in mind, what jobs/industries can I break into and make a decent wage that will be OK(or even happy) with the fact that I have a degree?
+
+I just don't know what to do..."
+d8qz3b,cscareerquestions,2019,9,"Don’t even know how to start a project, and I don’t know how to contribute to open source. | I am a CS student, a senior. I don’t have any internships or SWE experience under my belt, and my GPA is average. I think a great way to showcase is to do some project or contribute to open source. However, I don’t even know how to begin. 
+
+It’s not that I can’t code at all, I just have a “writer’s block,” when it comes to project ideas and if I come up with one I don’t even know how to start coding on it (as I would obviously start it from scratch). 
+
+On the open-source side of things, I tried looking through Github but the projects have HUGE amounts of code and searching their issues I don’t even know what they are talking about or where to find said problems.
+
+How do you guys do it? How do you guys start up a project? How do you guys start contributing to open source? Any advice would be helpful."
+atulhj,cscareerquestions,2019,2,"Turned down for promotion for a second time - Advice please | I thought I would try seeing what people who don't know me would say about this situation.
+
+&#x200B;
+
+I have recently been turned down for promotion for the second time.
+
+&#x200B;
+
+I work as a software developer. About a year ago, due to the company expanding two new positions, lead developers were created. Before anything was officially announced it was obvious that it would be between two other developers and myself. Unfortunately I was the unlucky one that missed out. At the time the dev manager said they had no concerns about my ability to have stepped up to the role, just that with only two positions someone had to miss out and that if I kept doing what I was doing I would be in prime position for the promotion when it is next available.
+
+&#x200B;
+
+Recently, due to continued expansion the need for a third lead developer came up. I was turned down again. It went to a contractor who worked for us for a few months last year, who is now joining on a permanent basis. Again I was told there are no concerns about my ability to do the job and that if the contractor had refused the offer I would have been given the promotion. Again I was told I am in a prime position for the next promotion.
+
+&#x200B;
+
+I do know that the contractor has previously been offered a permanent role as a normal developer but turned it down, so it seems that if they wanted him to join on a permanent basis (obviously they do) they had to offer something else.
+
+&#x200B;
+
+Should I look elsewhere, just chalk it up to bad luck and wait or do something else?
+
+&#x200B;
+
+&#x200B;"
+dp7his,jobs,2019,10,"Why do you want this job? Am I doing something wrong? | I hate being asked this question because it seems that they only ask me this when they’ve decided they don’t want to hire me. 
+
+I usually say something like 
+
+At this point in my career I’m looking to grow and develop and this role represents an opportunity to develop something from the ground up. As someone who is motivated by results and challenge this role appeals greatly to me.
+
+Am I doing something wrong?"
+cpkejk,cscareerquestions,2019,8,"Has anyone successfully made the switch to a Quant Dev role? | Just wondering if anyone has made the move over and how much prep was required? I get approached quite often on LinkedIn, but usually don't reply because I don't feel ready.
+
+Are the interviews similar in difficulty to Big-N? Way harder? Do they require much financial knowledge? I've been working through a Quant Finance book just for my own interest and I really enjoy the subject, but most of it seems like it could be picked up on the job. For context, I'm a self taught programmer with a degree in Maths and work as a Software Engineer (still Junior) in a pretty big firm. It'd be great to find out a bit more information.
+
+Thanks!"
+bqdbog,jobs,2019,5,"Does anyone else feel like workplace culture has gone down hill in many companies and people are constantly, figuratively stabbing each other in the back?"
+avf528,cscareerquestions,2019,2,"A Tiny Guide To ""Grinding"" Leetcode Problems | Hey all,
+
+&#x200B;
+
+I'm still pretty young and only in my 2nd year of college so I often can't really contribute to this subreddit in terms of raw experience...but I wanted to make a post for those of you who are studying ""Leetcode"" type problems to pass interviews at Big N companies.
+
+&#x200B;
+
+I have done about 250 Leetcode problems in all problem categories and read the fantastic book ""Elements of Programming Interviews"" by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash about 5 times and skimmed it 3 times.
+
+&#x200B;
+
+Really really really recommend EPI over CTCI but that is personal preference. EPI dives very very deep into the reasoning behind how we go from brute force solutions for each problem, to the optimal solution but it is less beginner friendly since it is more intellectually rigorous. It instills an apparatus of thinking that no other resource I have found does.
+
+&#x200B;
+
+I want to make a small guide answering questions people often have about these problems as well as things to watch out for.
+
+# An Exhaustive List of Topics You'll Need To Know Well
+
+* **Fundamentals of Computers** (just a general knowing how computers store information etc.)
+   * This is just a basal thing. Knowing how binary works, how memory is managed in a program (stack & heap), etc.
+* **Big O Time & Space Complexity Computation**
+   * Know asymptotic bounds. If you can be flexible in how you analyze a solution you come up with (lower bounding it, upper bounding, exact bounding) it can help you see whether you can do better and make an improved algorithm
+* **Arrays**
+   * This is pretty straightforward. Often questions that work within arrays will be solved in linear time ( O(n) ) for the most part and that linear time solution will be tricky.
+* **Primitives**
+   * Things like bit shifting. This is more rare and I don't think this is as important since it doesn't test real thinking abilities since it mixes with one's abilities to bit shift which is an esoteric skill.
+* **Strings**
+   * These are problems that often deal with strings like permutations, backtracking problems that have use take an exhaustive approach in producing decompositions of a string to search a possibility space (which is often a brute force way of solving a problem since it will be exponential in time), etc etc. String problems are often solved most optimally in O(n) time or O(s1 + s2) time (linear with respect to each string) if we are given 2 strings...whatever the problem may be.
+* **Dynamic Programming**
+   * One of the most difficult subjects. This is the key: subproblems. If you can identify the subproblem, you have cracked the problem. Because from there it is all about memoization to cache and leverage previous solutions.
+* **Recursion / Backtracking**
+   * This is a comfort thing. The more of these you do, the better you get. At some point you will naturally think of solutions in a recursive manner (if backtracking could be a possible approach used). Problems that use backtracking often say...""generate all""...""compute every""....this indicates an expression of exhaustively expressing all the possibilities of a decision space. Recursion is beautiful for this.
+* **Graphs**
+   * Know DFS & BFS. DFS uses a stack (either implicit with the call stack and recursion or explicit if we create our own stack) & BFS uses a queue.
+* **Greedy Algorithms**
+   * These are algorithms that take the locally most optimal solution to achieve a global optimal. In contrast to problems that use dynamic programming (which is characterized by caching previous subproblems to find a global optimum), greedy algorithms take locally optimal choices.
+   * Not all greedy approaches one comes up with will work 100% of the time so it hinges on being able to use deductive logic to prove that a given approach will always work
+* **Hashtables**
+   * Very very very common in mid-level interviews. This is a must know. It is pretty simple, when our time complexity is too high, we can often reduce time and increase space by using some sort of auxiliary structure to cache work. Hashtables are often that auxiliary structure.
+* **Linked Lists**
+   * A tricky structure to work with. It is hard because we can't index into items. It gets easier with time but always remain tricky.
+* **Sorting**
+   * Know the fundamental sorting algorithms. Bubble, Insertion, Selection, Merge, Quick, Heap, ...etc
+* **Searching**
+   * If an array is sorted. IMMEDIATELY know that that is a strong hint that the optimal solution will use binary search and stay to the order of O(log(n))
+* **Min/Max Heaps**
+   * Heaps are really cool. Just know...if you see ""find the LARGEST""...or ... ""find the SMALLEST""...anything to do with size...think heap. Min or max. If we want larger items we use a min heap since we can throw away small items (to leave the large ones behind). And vice versa for when we want the smaller items
+* **Stacks**
+   * LIFO structures. Know how to implement a stack inside out. it is fairly easy so don't fear it. I'd suggest knowing how to implement all data structures stated here. Why not?
+* **Queues**
+   * FIFO structures. Used for Breadth First Search.
+* **Trees, Binary Trees, & Binary Search Trees**
+   * Trees are connected, acyclic, graphs. You can do DFS and BFS on them. Print all the characters in the tree in this order? Does it look like DFS? You can do that. Traverse the tree level by level? Looks like BFS. (BFS goes out level by level).
+* **System and OO design Principles (sometimes)**
+   * Some compaines ask Object Oriented questions. A great great resource for this is the book ""Clean Architecture"" by Robert C. Martin. I also highly recommend his book ""Clean Code"" but it won't help you for interviews (but will make you a better programmer)
+
+# An Approach To Preparation
+
+1. Find your weak topics. For me those were trees, backtracking, dynamic programming, and linked lists.
+2. Start with easys. My first Leetcode problem was Jewels & Stones (you can search it) and it took me 30 minutes......it was just 2 for loops. Am I dumb? ... maybe ... but these problems are so far divorced from daily programming tasks that it was difficult for me.
+3. Easys will be very difficult when you just start...then they will start getting...easy...hmmmm...onto the mediums.
+4. Your summer internship interviews will be medium difficulty questions. Full-time roles will be upper medium questions sprinkled with a few hard questions. Stay rooted in the fundamentals above and you can survive.
+5. Go onto hards if you want...but don't get lost on esoteric problems that require ""special"" tricks. This is all about getting ready to pass an interview for a job, not so much to have bragging rights.
+6. Top it all off with polishing your delivery. [pramp.com](https://pramp.com) interviews helped me immensely. I did about 8 in person interviews this past season.
+
+# F.A.Q.
+
+**How many Leetcode until I'm ready?**
+
+There is no finite amount. Every person comes to the table with their own weaknesses in all topics above. You will know when you are ready. You will see a problem and say...""Oh...yeah I know what principle to apply here"". The more you get that spark, the higher the chances you pass.
+
+&#x200B;
+
+**Should I time myself?**
+
+Yes and no. Time is critical. Speed is critical. But timing yourself is useless if you are very uncomfortable with a specific problem class. I suggest solving many problems (peeping the solutions often is fine...just gain comfort) in your weak points. Then when you get sick of jumping to answers you will soon take the leap and just solve the problem yourself because you will become familiar with the techniques required for the approach. (this is how backtracking was for me. I went from total confusion to it becoming a default way of thinking.)
+
+&#x200B;
+
+**What should I focus my studying on?**
+
+Weak points. And then popular problems. Find a list of problems the company you are interviewing at asks. No idea whether this is a myth or not (and CTCI addressed this as false...that companies repeat questions from a list) but I have friends that told me of getting exactly questions from these lists. It isn't critical but it can help.
+
+&#x200B;
+
+**Reading books vs. Leetcode/HackerRank?**
+
+Books give you theory. Coding gives you the memory in your fingers and the necessary practice. Like...if I know a problem will use BFS, how fast can I put the logic in place for a basic search? If I know that a problem may use a heap...how fast can I throw up a priority queue with the right comparator (if it is a max or min heap...Java defaults to a min heap without a comparator)
+
+&#x200B;
+
+Hope this helps someone...or made any sense...I typed it up quickly.
+
+&#x200B;
+
+I'm honestly not THAT good...like problems still stump me...but I've come a long way so my experiences may help someone else.
+
+&#x200B;
+
+I'll make more posts if people want more small tips.
+
+&#x200B;
+
+**Edit:** Holy crap. That is a lot of upvotes....um....yeah. Hey."
+bgfnr1,jobs,2019,4,"IBS makes holding a job difficult, unsure of what to do next. | 9 years ago I found out from my doctor I have IBS (irritable bowel syndrome) and it’s making my life/job miserable.
+
+It’s embarrassing due in part to when my anxious, I develop sharp pains in my stomach. This also makes my commute a pain. I also have to use the restroom a lot and living in NYC this is a living hell.
+
+I just started a new job and unfortunately it’s difficult to adjust to the position. Right now I’m taking medication/probiotics but they aren’t helping me. I’m quietly applying to other jobs, but I’ve been trying everything and unfortunately I have no idea what to do.
+
+Does anyone else suffer through this? How do you guys deal with it?"
+arni38,cscareerquestions,2019,2,"When is the best time for a University student to apply for full time? | I graduate around December of this year and have a fantastic internship during the summer lined up. I was wondering when I should start applying for full-time/University grad jobs at the big guys. The search for my current internship started last summer/fall. Ideally, I want this internship to be on my resume. What is everyone else's experience?"
+azhbn4,cscareerquestions,2019,3,"Is CS getting saturated at the internship/entry level? | I know a software engineer who graduated around 2011-2012, who mentioned that getting a job back then was much easier.  Without internship experience, he interviewed at several tech companies and got a job at one quickly growing company.  He also mentioned that bootcamp grads were having a relatively ok time since CS was not as big in colleges as it is now.
+
+
+
+Right now, CS is incredibly competitive at my university as the biggest major.  I feel very lucky to have gotten one internship, and 2 full time interviews that lead to a job offer.  Is there a chance our field could get over-saturated in the future?"
+bu3qp8,careerguidance,2019,5,"Bosses: What are the differences between your best employees and ""the rest""? | I'm a young professional, about 3 years out of college and work in communications. I've learned that there's a lot more to the ""best vs. the rest"" categories than performing your duties well. What are those soft/technical skills that silo off the best from the rest?"
+bode8d,cscareerquestions,2019,5,"Got caught job hunting by my boss. Decided to be honest and everything turned out well. | Long story short, my boss found out I was job hunting today by accident but it was in a way that I could have plausibly denied it. 
+
+I thought about lying to my boss and making up excuses about how it wasn't related to job seeking. After reading multiple threads here about getting caught job seeking, it seemed like the general consensus in these situations was to deny, deny, deny.
+
+But after all the support and positive vibes my boss had given me, I couldn't do it. Instead, I set aside time and came clean about my motivations, rationale, and timeframe for leaving. My boss said he knew, but was very happy I was honest because it meant he could plan for the future more concretely. He gave me his full support and asked me when I wanted to leave.
+
+Morale of the story: not all companies are out to screw you. If you have a good relationship with your boss and your company, don't burn bridges.
+
+One day update: Still in the clear! Everything has returned to normal so far, but we did have a discussion on what I wanted to work on before I left."
+dk9y7w,jobs,2019,10,"I finally did it! Unemployed for a year and took a risk that will pay off | I've never posted here before but I want to share my story and hope it might help inspire some of you who went through similar situations or are still in the job hunt.
+
+A little bit of background about me. I graduated in May 2018 with a Bachelors in Economics. During my undergraduate years, I didn't go out much nor did I really pursue any real opportunities. I did not hold a single job but was involved in some of the student clubs so I had that going for me. I spent a lot of my years in my room playing video games (I still do) and really avoided anything that could land me an internship because I was afraid of rejection. As a result, I didn't have a resume up until my junior year and at that point, I still was reluctant to look for things. Time went by fast and before I knew it, I was a senior with no internship experience and literally zero job experience in my life. I did have some activities though such as some of the clubs I was in but that was it. Alongside that, my GPA wasn't exactly the best, higher than a 3.0 but not by much.
+
+After graduation, I started applying for jobs. I knew I wanted a job in the financial services or tech industry. Initially, I was a bit delusional and thought I could land a solid job but my expectations quickly faded as weeks went on without a single response back. After a month of applying endlessly, I realized that the job hunt process was tiring and brutal but I pushed on. I used LinkedIn, Indeed, and all sorts of different job boards to apply and look for jobs. I tried to get out at least 10 applications a day before I went back to playing video games and this went on until September of that year where I would get my first interview. Because I had no interview skills, I ended up not making it past the first round. Over the course of next few months, this cycle would repeat where I would send out many applications and maybe 1 would get back to me. Sometimes even after getting back to me, I would get ghosted or not do well on the interviews. This went on for sometime and I started feeling helpless as I had to start paying my loans and did not have the means to do so. The only positive side of all of this was that I was living at home and all the jobs I was applying for was in my city (NYC). Instead of applying for some retail jobs to make some money, I was determined to land something I wanted and kept sending applications out mindlessly.
+
+By this point, roughly 7 months had passed by and I had several interviews but couldn't convert any to an offer. I did start to get pretty good at them but I still didn't know why I wasn't getting anything. I was getting desperate and embarrassed and I eventually looked into my school's one-year MBA program. I was worried because I had loans and my family was in a bad financial situation. However, my parents were very encouraging and after consulting a lot of my friends and family, I decided to pursue it. I saw it as a second chance to take all the opportunities I had missed as an undergrad but I knew I would have to really try for it.
+
+I'm currently a few months in and I graduate from my program in May 2020. I have attended many different career events and have done a lot compared to what I had done as an undergrad. I finally have received an offer a few days ago and it feels like a huge boulder has been lifted off my shoulders. The offer exceeded my expectations and I couldn't be more happy with it.
+
+I wanted to share this story because I know how brutal the whole job application can be. The last year had been hell for me but it did teach me a lot about the whole process. In the end, it really can be a numbers game and luck does play a factor. For those who are still out there looking, I want you to know that you're not alone. There will be always be up and downs and it takes a lot to push forward but at the end of the day, you only need to land one job. I know my story isn't unique but I know that some of you can relate and push forward. 
+
+If there's anything you guys want to ask, feel free to shoot me a pm."
+e12kwb,careerguidance,2019,11,"Anyone study their ass off in university just to end up in a job you don’t like? | As a teenager I was always good in math/science. I didn’t have any specific interests. So when the time came I had to choose what to with my life, I chose what I’m good at. So I got into engineering, out of all the different fields of engineering I thought civil engineering was the best fit for me. Grinded my ass off, though interesting, without a doubt worst 5 years of my life (while college/uni is supposed to be the best…) Anyway, I’m gonna have a good job with decent pay so it’s all worth it right? Wrong. Working as a project manager, salary aint great but also not bad. But now I see I have no passion for what I am doing, it's just a job and I am glad I can go home. Now I realize I might not have made the best choices in my life. And it’s not just my job, I come into contact with all kinds of people/jobs in construction. Anyone else in this situation?
+
+Moral of the story: I know its cliché, but try to find something you are passionate about, only that will fulfill you. I hope I will be able to find this for myself."
+d2k9j8,jobs,2019,9,"Is it just me or is getting a starting role in marketing extremely difficult? | I have seen countless posts here about how much trouble new graduates are having getting roles in marketing and many of those individuals don't even have work experience. I have several internships under my belt and pretty decent entry level marketing experience but I'm having so much trouble getting an offer. I have been actively looking for a month already and have gotten a couple phone interviews here and there as well as an in person interview one time but that's it. I have also gotten my Resume tuned up by a couple people in the marketing space so i'm not worried about it but I don't know what else to do as I'm checking Linkedin and Indeed almost every 10 minutes of the day and applying to anything i see but it seems to never end.
+
+Also I do not mean to piss off those that have been looking for much longer as i'm just trying to get some tips, thanks!"
+eb3p68,careerguidance,2019,12,"Am I wasting my potential working as a mechanic? | I was identified as a gifted kid. I am highly literate, and earned a bachelor of arts. . . 
+
+and then fell out of the white collar world entirely. I dislike desk jobs. I have farmed, and worked in construction, and now finally at age 39 got a job that pays a decent wage as a maintenance mechanic.
+
+The job is really interesting and I like it. But I am the only mechanic at the plant who can also draft a comprehensible email. Or read a book. 
+
+I am an OK mechanic. But I can't escape this feeling like I should be aiming higher or doing something \*more\*. 
+
+I dunno. I am overjoyed to finally have benefits and a pension, which is more than a lot of people can ask for, but I just have this nagging feeling like my imagination is bigger!
+
+Thanks for reading."
+anda95,cscareerquestions,2019,2,"I am a software engineer at a FANG company with a psychology bachelor's - how do I go back to school to get appropriately accredited? | It's a long story but I've been in this really obscure area of business for a while and moved into a technical role last year.  Recently my company converted my job area to software engineers with a specialization in the recent area which was unexpected but I was able to pass the new requirements fine.  I just learned some things that my previous job role wouldn't know from an SWE perspective and my coworkers in the same roles seem to get along fine with my skill set.
+
+I usually try to avoid bringing up my credentials in conversations as it creates confusion and I can tell people find it odd.  I do not have any performance concerns as I'm able to work at the same rate/level as my peers and I get good reviews.  However I do want to get a technical degree so I can make sure that this doesn't affect me from moving to other companies or moving farther up.
+
+I have checked and the two options seem to be awkward:
+
+1) Go back to undergrad and get a CS degree.  Most undergrad programs do not seem to accept students who have been out of undergrad a while and some of them even outright state they are only meant for those who are new to undergrad and NOT returning students.
+
+2) Go to graduate school with my current qualifications.  They all seem to highly suggest having a comp sci degree but take exceptions.  However the acceptance rate at good schools is low for schools on the west coast and I can't find many online programs which seem to be competitive.
+
+Any suggestions for me?"
+dmkvb4,jobs,2019,10,"For the first time, I've been offered a job with normal hours!"
+cgjut6,cscareerquestions,2019,7,"I'm a computer science intern, but I'm so lost. | So I'm an intern at this company that needed help creating small apps to reduce their paperwork and just automate everything. I'm the only CS intern there and we don't have any senior software engineers I can seek help from. Right now, I'm working on this project to create an app but I'm stuck and can't ask anyone at work for help because they're not in my field. They all tell me that I'm the expert and that I should know it and they're asking ME to build them something. But I'm so lost and I don't know where to go from here. I'm wondering if I should ask my manager for technical support from another location in our company since we're global but I'm scared he will say that he expected more from me and won't see the point of reaching out elsewhere if he has a CS intern that should know how to do it. I'm still an intern and have much to learn about coding and I feel stressed and scared I won't be able to build this program for them."
+b4bzpt,careerguidance,2019,3,"I have access to 24 months of FREE scholarship! What should I do with it? | Basically I'm a veteran and used my benefits to get an undergraduate degree. Currently working in government for peanuts. And I still have 24 months left under my contract so I've been thinking about going to school as opposed to just throwing it away. 
+
+I've been thinking about law or business school but I know that's just going to lead to failure or unemployment. What are some other degrees or studies or certificates worth pursuing?
+
+All comments will get a FREE upvote!"
+ch9mk6,careerguidance,2019,7,"Desperately want out of IT, where to go? | Hello, person in my mid 30's here having a somewhat premature midlife crisis of sorts. I got out of school at 20 with an AA degree, then proceeded to spend (waste) the rest of my 20's going from random job to random job with no direction - cashier, pizza delivery, server, factory work, etc. Eventually, I took up a call center position for a few months that turned into a help desk spot that had me thinking ""hey maybe IT is for me"". Fast forward a couple years into a different help desk position that has me thinking ""hey IT is definitely not for me"". 
+
+For the past couple of months I've been trying to study to get certifications to become a sys admin, and it is an absolute slog. I feel like I am getting nowhere, forcing myself to study for something I have next to no interest in. I don't lack motivation, I have no problem coming home from work and working on projects and learning things I'm actually interested in, things more on the creative side - video editing, music, mixing/audio engineering, Illustrator/Photoshop/AE (I have a lot of hobbies, I am good at none of them). I've been into design since a teen (have actually done some freelance illustration work), so my instinct would say I should go into graphic design, but from my research that seems like a hard field to get into, and if I ever did my starting salary would be much less than what I am making now. I have also looked into UI/UX design, but from looking at listings for UI/UX jobs in my area the requirements seem so extensive I frankly feel like I am too dumb to ever get enough knowledge where I could get one of those jobs. 
+
+I just wish I had a clear cut path I could follow or a definitive goal in mind to work towards so I could feel not so aimless, but I have no idea what to do or how to get to the point of even choosing, there's so many possibilities and so much to learn and know, it's daunting! What is out there for me?!"
+aqh3ad,jobs,2019,2,"Anyone else picking up the phone hoping for a callback, only to get spam instead? | Not really a long rant or anything; I just found it funny at first, then annoying."
+beb09t,jobs,2019,4,"Just got a job offer!!! | I was laid off at the end of January so I am 3 months in to my job search and I just accepted a job offer for a company that I had worked third party with previously.  I was fortunate enough to have a little padding from severance plus unemployment benefits to carry me through. Since I had the chance, I figured this was the perfect time to jump industries and try for something completely new. I have applied for lots of jobs that have are not even close to my field and have actually had some good response back on my resume from recruiters and interviewers.  I am somewhat terrible at selling myself on paper but  I love to interview, (seriously, I could be a serial interviewee). I tend not to get emotionally invested in a job or company unless I am really excited about the actual job responsibilities.  Two weeks ago I was certain I had interviewed and was on track to get the perfect job then I was rejected. That was a really tough ego blow because I had let myself identify with the job before it was even mine and when it didn't happen I questioned everything about my job experience, finding a job outside of my industry, etc...
+
+There have been so many ups and downs and soooooo much ghosting from companies. I came across another redditor's post about their process and it helped me stay grounded and positive about what it really looks like for a job seeker. So, I decided to share my stats on what it took for me to finally land my job offer:
+
+ From  January to April
+
+Registered with one employment agency but didn't feel as though that was a productive move as it never generated a lead and their competency testing system was extremely outdated so I scored very low in areas (excel, office, power point) that I know I excel in.
+
+Daily searches of Indeed, Linkedin, Zip-recruiter, Glassdoor, and my state's workforce website 
+
+Over 100 application/resume submissions
+
+4 reworks of my resume-some to target specific industries others just to fine tune it
+
+9 face to face interviews
+
+12 preliminary phone interviews/screenings
+
+1 Skype interview
+
+1 offer rejected-company culture was not compatible with my beliefs
+
+4 actual email/phone rejections following interviews
+
+3 interviews with no feedback offered, no offer or rejection
+
+1 job offer accepted
+
+&#x200B;
+
+Whatever happens stay positive, patient, and persistent.  I hope this helps in someway."
+ayovg8,jobs,2019,3,I've (m27) been offered a manufacturing shift leader position. This will be my first experience as a leader. ANY TIPS?
+e6fvcz,cscareerquestions,2019,12,"2 months into my first job, feeling completely stuck"
+asdnxl,careerguidance,2019,2,"Cried at work today. What do I do from here? | I burst out crying in work today . 
+
+I'm stressed and my grandmother passed away Wednesday. I had time off.
+
+I'm an admin and finance assistant and maths is not my strength and I'm not very organized
+to say the least.
+
+
+I've been there since the 9th of Jan this year so not very long.
+
+My aim was to stay there for at least 6 months probation.But this is not happening now .
+
+I had a feeling I wouldn't be good for the role but I wanted a job and didn't want to look lazy.
+
+I don't know what I want to do. I wish I knew.
+
+Do you have any advice going forward.
+Please no nasty comments as I'm not in the best place. Just some advice.
+
+Thank you."
+cxnt9t,jobs,2019,8,"I got a job offer after 3 months of unemployment!! | Hey y'all!
+
+So I graduated in May with a degree in American Studies (""the most unemployable major,"" according to my no-good college counselor, who tried to use that as a reason to consider law school, \[*like I need more student debt*\]).  I had a pretty prestigious internship  for two years of college that unfortunately didn't lead to a full time opportunity. 
+
+I applied to 392 jobs this summer. I participated in 26 phone screenings and 10 in person interviews. There were 3 jobs that related to my experience and long term goal. I advanced to the last round in each, where I among the top 3-5 candidates, getting my hopes up for each. Two of them rejected me. The last one I hadn't heard from in 3 weeks, and couldn't get a response to my follow up emails. 
+
+I totally understand how easy it is to fall into depression during periods of unemployment and job searching. I couldn't even get a job in a restaurant or retail. It truly sucked seeing my friends starting their first jobs post-graduation, grabbing happy hour drinks after work, and sharing work stories, while I just felt stagnant and incompetent. LinkedIn became a toxic place, because every new job update was proof that everybody was more successful than me. I drank more. I smoked more. I found it hard to get out of bed-- even harder to leave the house. Anxiety kept me from sleeping through the night. I avoided friends and family, because I was ashamed of myself for still being unemployed. I burned through my savings, realizing that I had about a month until I had to reach out to my family for support which they couldn't provide.
+
+But then the third job got back to me. It is exactly what I want to do with my long term career goals. It is also at a company that is ranked #1 in its field, and shares my values. They are paying me $15,000/year more that I asked for. My future supervisors are people I already look up to from our conversations in the interview. It's not going to be an easy job - the company has a reputation for expecting the best and nothing less - but I am passionate about what I will be doing, and up for the challenge.  
+
+I want to thank the people on this board for their advice, tips, and stories. It really helped me and guided me in what has been the most difficult and painful period of my young life. I used to roll my eyes at the people on here telling struggling unemployed job seekers that everything will work out, and the right opportunity will come when its meant to. Now that it has, I understand. It's hard to see the big picture when you are drowning in your own self pity. 
+
+I start on Tuesday :)"
+dpna98,cscareerquestions,2019,10,"I never passed a single CV screening, here is my CV."
+cgjb2y,jobs,2019,7,"Just got offered my dream job! | I’ve posted here once or twice but I’ve used this sub for TONS of advice helping me through this process. 
+
+Just accepted a job as a clinical trials coordinator at an excellent cancer center and I would like to thank all of you for your guidance, encouragement, and help. From resume building to interviewing and so much more. From the bottom of my heart thank you!!!
+
+To those going through the process and who might be getting frustrated: don’t quit. Keep applying, apply places you’d never think you’d have a chance of getting to work at and I promise you things will work out for the best. If I can do it you can too."
+bq4e49,cscareerquestions,2019,5,"Do people actually get jobs just from applying on the company site? | I’ve spent months getting my resume revised by people. It feels like a waste of time. I feel like it’s all entirely opinionated.
+
+I understand the basics, do the why, then how and what. Make it look visually appealing but not too out there.
+
+I post my resume one week and someone says that my points are too short and I need to include the tech I used and be descriptive. Then the next week someone tells me to stop using so much filler words that are in my skills and cut down the length of my points.
+
+Someone says adjust header 3 cm to the left. Someone says adjust header 3 cm to the right.
+
+I feel like I’m on an endless cycle of just trying to make my resume look “perfect”. I feel like I spent so much wasted time trying to optimize my resume for it to get nowhere. The contents of your resume don’t matter if it doesn’t even go anywhere past the online screen. And in my opinion, no resume gets passed an online screen at the lower experience levels. 
+
+At this point, I feel like I shouldn’t even bother with applying online anymore and just make a resume that someone can quickly read. Then, avoid any potential blockers like parsers and other online forms of application and try to get it directly into the hands of a recruiter or hiring manager. But the thing is, what are the best ways to do that?
+
+So what do you think?
+
+Resumes are useless in the form of online applications?
+
+Is there any facts of getting a resume past the online application and into the hands of a recruiter and especially a hiring manager?
+
+How do I connect with recruiters and HM without any connections to the industry?"
+ch40w1,cscareerquestions,2019,7,"I run a ""popular"" technical sub related to my work. Should I disclose to my employer?"
+dbo8h9,cscareerquestions,2019,10,"I got stuck in a job that drained my aspiration and still there's no another lined up. Should I take my chance and bail? | Dear Redditers. I’m 24 years old living in Asia and would like to sorry for English mistakes. I was a fresh grad when I got this job and it wasn’t a usual line of job for my field of study. I’m an Arts Degree(feel free to point at me and laugh) who got a job in an IT company. I got an ‘invitation’ from a friend in Uni and the company was ‘impress’ with my communicating skills. I didn’t think I was fit but it was four months since graduation and I was getting impatient. Even then, I was suspecting they just wanted anyone with literacy to fill an urgent spot whereas my mum tried to convince me it was because of my skills they took me in. Later, I came to believe I was right.
+
+Turned out said friend of mine had overstepped the HR to ‘vouch’ me for the job and everyone almost ready to give me a cold shoulder since the first day. She wasn’t popular in the workplace, either. It took me a week to show them I’m not an insolent prick, and it worked because I never refuse any assignment and later they found out I was clueless what was going on behind the scene. That was when I realized I was fucked, but it was getting worse and it wasn’t just me.
+
+I don’t hate my boss. Hell, he was quite approachable and chill, but I simply fed up with his decision after another. A lot of management changes in a few months turned out to be trial and error, and to this day we still don’t a clear picture of the changes. I was expecting a decade years old company would have some sort of management savvy but apparently I was wrong. My early stage of training barely started when I was given a few files and documents and was expected to learn everything in a day. I knew it wasn’t what I learned in the Uni but I also knew it was a part of the job. Welp, I thought, we can’t stop learning. Later, I was ‘trained’ in newer, complex contexts in the same manner but now I have a 1-day deadline as well. It’s like reading ‘Physics for Dummies’ for the first time while trying to defuse an atom bomb.
+
+Oh, the pay is not very good although I can live with it. No OT in spite of the amount of time we have to spend on the job. Technically, I could drop everything as soon as I leave the office but the thing is that’d pile up over and over. Everything I was close to finish was put on ice with no explanation. As a result, I barely got any accomplishment and that killed my spirit fast. I don’t see the process and when we do something it ended up rushed work. First, I wanted to learn and impress everyone but now I couldn’t care less if someone yells at me and physically throws me out. Physical fatigue is nothing in this job, but mentally exhaustion now really got me. I spend each weekend in a limbo; dreading about going to work and I found myself mentally tired to just go outside and talking with someone face-to-face. I end up searching for new jobs on office time and my off-time is all about calming my nerves so I can grind through the next day. Rinse and repeat. No reward, no criticism, nothing. As I was typing I literally daydream about leaving the job and not looking back. I’m in the middle of interviews schedules and result which of course, driving me crazy because I just want to dig myself outta this hole before I bust a testicle. Worst case, my family has our own house which I can return and stay there until I get my shit together. 
+
+So, do you think I should take my chance and risk it or stay for another job to line up?"
+divauy,cscareerquestions,2019,10,"For senior developers interested in transitioning into leadership... | If there was a way for you to take a break from your current job to really strengthen your management, leadership, and mentorship skills and still get paid, would you do it? 
+
+Please **upvote** if this would be interesting to you, and please **comment** below any feedback or details that would need to be true for this to be interesting to you. Thank you!"
+blsz2b,cscareerquestions,2019,5,"What's the strangest thing you've negotiated in a job offer? | I was thinking beyond the typical sign-on bonuses, vacation days etc and more so particular services/benefits (I.E work at dropbox and request unlimited cloud storage free, every friday company buys you a slice of cake)"
+d4oyts,cscareerquestions,2019,9,"Yet another entry level job search stat | Sharing my very recent job search stats as a relatively entry level SWE, keep in mind as technically companies no longer considered me as a fresh grad, the numbers might be a bit higher than most of the fresh grad postings on this sub
+  
+&nbsp;
+  
+
+Location: San Francisco Bay Area  
+  
+Professional experience: 1 - 1.5 years, first job switch  
+  
+Time: 3 - 4 weeks from application to offer  
+  
+Background: multiple internships, 7 projects, Bachelor of Computer Science from University of Waterloo (Canada)  
+  
+TC: 160 - 180k, non Big N
+  
+&nbsp;
+  
+
+The numbers:
+  
+**Applications** - 311
+
+**Phone interview** requests from HR: 42 accepted, 33 declined  
+  
+* 18 from 3rd party recruiter spams that refuses to disclose the company names, salary band...
+  
+* 15 reached out after an offer has been made, declined because I'm doubtful they could match the offer
+  
+**Technical screens**: 25 accepted, 9 declined: take home projects, role isn't a good fit after the introductory call, sketchy company, unreasonable hiring process, timeline won't work out...
+  
+
+* 18 coding phone interviews  
+* 7 hacker rank or codility coding challenges  
+  
+
+**Onsites**: 8 accepted, 2 declined
+  
+  
+&nbsp;
+  
+
+Main points:
+
+- Due to the massive amount of interviews it was not uncommon to be juggling ~4 interviews/day, on week #1 I had 22 interviews scheduled, with some days having up to 7 interviews (3 tech phone screen + 4 recruiter introductory calls)
+  
+- My working hours was extended to 8am - 10pm during weekday, and 10am - 11pm during weekends
+  
+- Facebook was the only company out of the 5 Big Ns (Facebook, Microsoft, Apple, Google, Amazon) that did not request a phone interview  
+  
+- I skipped leetcode-easys and only focused on leetcode-mediums and leetcode-hard, I made it a rule to do at least 2 leetcode-mediums/day (including weekends)
+  
+&nbsp;
+  
+
+Difference vs. job hunting as a fresh grad: 
+
+- I was initially expecting perhaps 5 - 10% callback ratio given what I've read from this sub, the callback ratio greatly exceeded my expectations, but at the meantime unlike a fresh grad I just don't have unlimited time anymore
+- I have a feeling that the complaints on leetcode vs. take-home on this sub might have at least partially contributed to the latest hiring trend: I was pleasantly surprised by how few companies asked take-home projects.
+Less than 2 years ago I think the ratio is roughly 20% so you might see 1 take-home out of every 5 company, I think this time only 2 or 3 companies wanted me to do a take-home
+- System design rounds are now expected, when I was a fresh grad I don't recall there being any system design questions during onsite, nowdays I think there was at least 1 system design rounds in every onsite that I attended
+- Laptop rounds are a new trend: you will bring your own laptop to onsite interviews or they can provide you with one, interviewer will give you the question on the spot, you have 60-90 min (15min intro, 60min coding, 15min presentation)
+ just like a technical coding interview but you're free to look up anything you need on the internet, the question could be anything from leetcode, data structure and OOP design, concurrency,"
+b9wzf7,jobs,2019,4,You ever just bottle up because no one wants to hear it? | Oh sure workplaces love to say they listen but they really don't. I complain if someone gets me started but I just try and keep my thoughts to myself. No one cares and managers all answer to corporate so they have no power anyway. 
+bf6gj4,jobs,2019,4,Please share your experience of workplace bullying and how you handled it? | Just want to see how is this happening around with others and how people deal with it.
+dsog56,cscareerquestions,2019,11,Just some thoughts from somebody who's been on this subreddit for 7 years since I was 16 and just graduated with an offer
+c2j1n0,cscareerquestions,2019,6,"I have two weeks before I start my new grad job. Should I be studying/preparing? | I recently accepted a job at one of my top choice companies in a competitive tech hub! This is basically my last real summer before I adult. I was wondering if I should be studying rest api's, full-stack, and reviewing algs/DS so that I won't be rusty when I start working, or if I should use these next two weeks before I start to rest and prevent burnout. Any thoughts? Should I be studying?"
+cl4l0a,cscareerquestions,2019,8,"How do you explain to non-tech people what you do? | Whenever my mom or siblings ask me what I do, I always have a hard time explaining to them what development at the most basic essence. As they aren't exactly the most tech-savvy people, they think all I do is IT work and fix computers. 
+
+Little annoying honestly as I spent the last 4 years of university grinding out the degree..."
+bv91op,cscareerquestions,2019,5,"What are some basic/fundamental ""best practices"" that would alleviate some software developer's woes? | Every company/situation is different of course and there no universal laws of effective development, but what are some things you think would better your development experience?
+
+Are they any habits or behaviors (preferably small tweaks and changes) you think would just make things suck less in general for yourself or others? Small-ish things that individuals and/or teams could that may not be a organization wide change but at the very least would improve development for them (it's super hard to change a company but it's significantly less hard to change a small group)? Perhaps there is a certain principle to keep in mind that is helpful.
+
+I don't mean to ask this in a prescriptive manner but of a ""in general this tends to make things better"" way. What has worked for you and you think is generally applicable but just isn't done? 
+
+Final question, why do you think ""best practices"" aren't employed even though they often yield positive rewards in most cases?"
+cfbt5c,cscareerquestions,2019,7,"US Citizen, but I have a ""foreign"" name, should I change it to help my job search? | Hi, I am an US citizen, but I have a ""foreign"" name, should I change it to help my job search? In my resume I also stated things like ""Work Authorization Status: US Citizen"" near the top with my contact info."
+d7vyi2,cscareerquestions,2019,9,"Are these things about my company normal? Is it even worth tolerating or should I leave? | I work at a mid-stage startup as a SWE.
+
+The engineers regularly work nights and weekends and there are basically no boundaries. People will ping you with aggressive messages at any hour. One engineer told the team he's going out on a friday night but will take his laptop with him incase something goes wrong (it was not a critical release day or anything). Another young engineer spends a lot of time watching the server logs and pinged me on a weekend about some unknown, but uncritical messages. One ""senior"" engineer actually barely commits any code and acts a pseudo scrum master assigning people random tickets.
+
+&#x200B;
+
+Is any of this normal? Should I tolerate it? Should I be working harder to match the other young engineer?
+
+From my perspective, this is toxic and counter productive. People love looking productive but this is just a rat race to the bottom. Also, this is really good for the management because they can get as much value out of the team without giving appropriate raises and promotions. We actually have more engineers overseas than here in the US and entire projects are being shipped of there. I was offered to ""lead"" the project but that basically entails working my normal 10-12 hour days, and then syncing with the overseas team for three hours at night. 
+
+Working hard is not the problem here, I love working hard and long. I just don't feel I'm being productive for my career and life overall.
+
+&#x200B;
+
+Thoughts?"
+cfdr5t,cscareerquestions,2019,7,"How to rise up the technical ranks. Some thoughts after a 25 year career. | I've been reading this subreddit over the last few weeks and hope my thoughts looking back on my career will help people starting out.
+
+&#x200B;
+
+Some background:  I went to a regular University and got a bachelor of computer science; with a mid 2s GPA.  Math/statistics has never been my strong point;  but I did well on the programming courses.
+
+&#x200B;
+
+I graduated into a bad recession and had to take a tech support role for Unix dial-in support.
+
+I managed to convince management to move me over to development where I started out doing C/HTML.
+
+The system administrator left so I proactively picked up sys-admin work and learned on the job.
+
+&#x200B;
+
+1. . Be proactive and willing to pickup new responsibilities/languages/areas of expertise.
+
+&#x200B;
+
+My sys-admin work directly led to my getting a contract job at major Networking Firm.
+
+Having that company on my resume helped me get my first job in the Bay Area.
+
+&#x200B;
+
+2) . Almost every job I have gotten over my career has been through referral.
+
+&#x200B;
+
+Ive worked in telecom, biotech and banking.  Both large public companies and small private/public companies.  All jobs through referral.  Most with no prior domain experience.  The basics of system design, good coding practices etc.. are what matters.  Domain knowledge can be learned.
+
+&#x200B;
+
+3) . You don't have to interview well.  Personal recommendation and what you bring to the table trumps everything else.
+
+&#x200B;
+
+I interview very badly.  It's never stopped me from getting well paying jobs with interesting work.
+
+&#x200B;
+
+3).  Don't pigeon hole yourself into a single technology or area of development work.
+
+&#x200B;
+
+I have done front-end, back-end and middle-tier work on everything from Java/C#/C to Javascript, jquery, node js, angular as well as Salesforce.
+
+I have learned almost every language/technology on the job.   If your resume shows an ability to learn diverse technologies and you come with a good recommendation there's a good chance you will be hired without prior specific language experience.
+
+&#x200B;
+
+4) . Learn how to Google.
+
+Be willing to spend time searching for solutions to problems before asking for help.  I've spent hours and sometimes days trying to solve complex issues before asking for help.  You don't learn the skills of debugging and modifying solutions without putting in the grunt work.
+
+&#x200B;
+
+There's nothing wrong with asking for help as long as you've exhausted solutions beforehand.
+
+&#x200B;
+
+5).  Be willing to pick up work in new areas
+
+&#x200B;
+
+Is the web-server down?  Become the expert on web-servers in your team.
+
+Is the app-server down?  Become the expert on app-servers on your team.
+
+Are there issues with security in your app?  Become the security expert on your team.
+
+&#x200B;
+
+I'm now a generalist because I put in the time to solve issues in diverse areas of the technology stack at the companies I worked at.
+
+&#x200B;
+
+6).  Have a good attitude and get along well with others.
+
+&#x200B;
+
+Getting along with others but 7/10 on technology will always trump 10/10 on technology but having an attitude.
+
+&#x200B;
+
+7).  Know your strengths and your weaknesses.
+
+&#x200B;
+
+There's no shame in staying in technology if you aren't good at management.  Some of the best developers I know are in their 50s."
+cpp0hy,careerguidance,2019,8,"Getting better paid but got almost nothing to do. Is it normal in a corporate? Anyone experienced the similar situation that can shed some lights on me? | Hello Reddit! Sorry if there are any typos/grammar mistakes..
+
+&#x200B;
+
+I'm not quite sure what to do here..but let me explain the situation. I'm a marketer and designer and I've been working for startups quite a while and I was getting tired about everything in general, so I decided to quit and hired by a corporate.
+
+&#x200B;
+
+It has been 1.5months now, I barely have things to do(I did ask if anything I could help). Even though I was assigned some tasks, they were so easy such as buying stuff on AMZ and make some powerpoint templates. Compare to what I used to do, I am absolutely over-qualified. I don't know if the managers don't trust me enough to assign me tasks or we have too many people already in the team. They don't really need me. It's hard to break into their inner circles too since they've been working together for 5+ years. I feel pretty lonely everyday and people just don't even know you existed. 
+
+&#x200B;
+
+One day I was assigned a task which was putting 3 short vids into 1 vid, I finished it in 10mins and sent back to my manager. She kindly of joking when she said 'Edith, don't work too fast. Now they are asking for more..'Sometimes, I just feel like they want to delay sending the works that were already done to an other department. Maybe because they just want to pretend they're busy..?
+
+I could also feel sometimes they are not really busy either, but my manager keeps saying she is super busy all the time.
+
+I wanted to make an impact through my job or at least I can use my skills to contribute. Now I just feel so useless and don't even know what I am doing when sitting on my chair. I know this is not a job I like for sure, but the money + package are way better and that's part of the reasons I left my previous job. One thing is that maybe I am used to the startup face pace environment and that caused me thinking maybe that's the life working in a corporate. Should I quit or stay and suck it up because of the money?"
