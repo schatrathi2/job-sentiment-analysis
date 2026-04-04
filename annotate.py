@@ -16,3 +16,4 @@ def annotate(df):
         num += 1
 
 annotate(df)
+df.to_csv("annotated_data_2019.csv", index=False)
