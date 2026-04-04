@@ -1,10 +1,10 @@
 import pandas as pd
-from IPython.display import clear_output
+import os
 
 def annotate(df):
     num = 1
     for i, row in df.iterrows():
-        clear_output(wait=False)
+        os.system("clear")
         print(f"post {num} of {len(df)}")
         print(f"text: {row.text}")
 
@@ -15,7 +15,7 @@ def annotate(df):
         num += 1
 
 def main():
-    year = 2019
+    year = 2022
     df = pd.read_csv(f"annotate_data_{year}.csv")
     annotate(df)
     df.to_csv(f"annotated_data_{year}.csv", index=False)
