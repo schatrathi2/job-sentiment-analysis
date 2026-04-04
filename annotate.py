@@ -9,8 +9,8 @@ def annotate(df):
         print(f"post {num} of {len(df)}")
         print(f"text: {row.text}")
 
-        sentiment = int(input("1: pos, 2: neg - "))
-        sentiment_map = {1: "pos", 2: "neg"}
+        sentiment = int(input("0: neutral, 1: pos, 2: neg - "))
+        sentiment_map = {0: "neutral", 1: "pos", 2: "neg"}
         df.loc[i, "sentiment"] = sentiment_map.get(sentiment)
 
         num += 1
