@@ -1,272 +1,257 @@
 id,subreddit,year,month,text
-qxmie1,jobs,2021,11,"Worst interview of my life | A 5 panel person interview just ripped into me with the force of Moses parting the Red Sea. Totally flubbed on the technical questions, shredded like a piece of paper. This has me reconsidering if analytics is even the field for me. 
+l465bg,jobs,2021,1,I graduated from college last may and still haven’t found an “adult job” | So I’ve been working at a connivence store off and on for about 3 years now. I’ve also got a second job at a local grocery store. I have 2 college degrees; one in film and one in advertising. The jobs i work now are incredibly horrible hours and have been making me want to break down and cry. I can’t do it for much longer. But i can’t find any jobs using my degree that I’m qualified for. I can’t find any job at all that will even give me an interview in over almost an entire year of trying. I don’t know how much longer i can take the jobs I’m working at right now. But i don’t know what else to do. Can anyone give me advice god please?
+l1r616,cscareerquestions,2021,1,"Got My First Job! No VCS, No Testing, No Docs, No Code Reviews, Code Directly Written in Prod | I don't really know why I'm posting this or what I'm expecting but I recently got my first dev job with a very small team, so small that each individual basically has their own project with no overlap on anyone else's work, so there isn't really any collaboration. 
 
-To everyone who has been destroyed in interviews I now completely understand how devastating it is. It was so bad that the initial manager who screened me strongly emphasized to his coworkers that he had other candidates ready to be interviewed. 
+There's no Version Control, No dev, testing or staging servers. Everything is written in prod (even database stuff), and immediately just copied over to another directory where all the live code is run. No development lifecycle or CI/CD to speak of and barely any documentation. 
 
-I sent a message apologizing to him but I’ll likely never hear from them again. And that’s for the best. What a disaster"
-rhg4b4,jobs,2021,12,"Fired after only 1 month. 3rd time being terminated. | As the title states, I was let go today from my job of barely a month as a business operations associate at an engineering firm. This isn’t the first time I’ve been terminated but a month seems quite harsh.
+This is my first job so I feel insanely discouraged. I was so hyped but I don't really even know what to feel now. I was actually excited about feeling overwhelmed with all this new stuff I'd have to learn but right now it basically just feels like I'm getting paid to work on personal projects since there aren't any code reviews or really any mentoring (I'm also using the newest tech of anyone in the team so I'm the only one that knows it).
 
-I have mixed feelings. While I didn’t particularly care for the job itself it was still good experience and the pay and benefits were high. I was hoping to stay at least 18 months but that’s no longer possible. In addition, my unemployment durations vary. There were times I’ve found another full time job within a few weeks to more recently it took over 3 years to land a FT position after dozens of failed interviews and numerous crappy temporary minimum wage work. I won’t survive going through such an ordeal again.
+I've been thinking that since there isn't really any overlap between anyone's projects, I should take the initiative to create a git repository and document everything as best I can I doubt I'll be able to implement any kind of CI/CD though. 
 
-I was told the reason for termination was because I wasn’t understanding the duties quickly enough but no one becomes proficient in a job in only a few weeks unless it’s basic unskilled labor. I will admit though I do have ADD and thus I take a much longer time to learn and tend to struggle with detailed oriented tasks for which this role was extremely detailed oriented (absolutely everything had to be perfect and accurate since we’re of course an engineering firm). 
+I would leave but I think I'm going to have to stick this out until after I pay off my loans and covid ends, given the job market.
 
-However, I’m not sure where to go from here. Practically every non-management job relies on attention to detail and I frankly can’t handle minutiae, repetitive tasks without mentally shutting down (brain fog, low productivity, making silly errors etc) and my skill set isn’t suitable for freelancing. I’ve mainly worked administrative, project coordination and business ops roles. Any advice or possible jobs that might suit me?
+To top it off the people I work with are seriously some of the coolest people I've ever met. 
 
-About me: 27M, no degree, live at home, good with coming up with ideas, bad at details."
-nn1cys,jobs,2021,5,"I’m two weeks into a new job— and I HATE it.... advice? Open to hearing similar stories so I feel better. | I started a new job and it’s been two full weeks of work. I was super excited about this job and now that I’m into it, I’m miserable. It’s nothing like I thought it was going to be, it seems like everyone is a machine, and there isn’t the type of team work I expected there to be based off the interview conversation. 
+Kudos to anyone that read this monologue of me venting lol"
+luk234,cscareerquestions,2021,2,"Normal to feel like a 'breakup' after leaving a company? | Left my first software job a few months back. They taught me everything I knew and I spent a lot of time with my team who I grew to like very much (and I don't think I realized how close we were). We did great work together but I ended up leaving for a somewhat higher-paying job at a company I now know to be far more boring, pretentious, and lonely in terms of team interaction.
 
-I feel like I was so blindsided by this whole job and feel so stupid at how I took this job expecting something “better”. I’ve started to actively look for new work. I just feel so bad or it feels wrong to leave a job so early. This job is completely remote, they mailed me the things I need like a laptop, additional screen, keyboard and mouse, headset. So having all of that and then leaving early just does NOT make me feel good. 
+So basically the transition has had some 'breakup' qualities - I think about my old company almost every day, sometimes dream about it, sometimes lose sleep wishing I hadn't jumped ship on them. I've hung out with them a few times since and I generally badly want to tell them that I want to come back lol. 
 
-I’ve cried so much, have had constant anxiety to the point where I can’t even think properly. I’m used to working, it has nothing to do with being lazy. The job itself has sucked. The training was bad, I feel SO confused still, it hasn’t gotten better, and I don’t feel like I can grow at all with this job. To give more details: It’s full time contract, no benefits, and not amazing pay (only $18/hr). I’m turning 22 years old this year and I already have 2 years of experience in similar work. My previous job (which I LOVED and miss so much) ended because I was on a student contract and they didn’t have the budget to take me on as a regular employee when I graduated.
+I feel like it might be a 'grass is greener on the other side' mentality as there were some negative things about working there, but I'm unsure if I miss them too much, or more than normal?"
+mzua4r,jobs,2021,4,"How do I handle my “boss” (at a position I don’t even get paid for) being rude to me on the second day? | I started a volunteer position today which has the ability to turn into a job. My “boss” asked me make a poster and I did. Now keep in mind my graduate degree gave me extensive graphics training. And I’ve done this job paid multiple times before and always was told I was a fantastic employee. She gave me very few details about this poster. Then she gets snippy about how the poster isn’t right and how she wants a discussion about my experience level. Now IF I was being paid I wouldn’t care so much BUT for this to be unpaid and for her to be flat out rude when she really didn’t give me enough details makes me worry. I mean how can you expect someone to stick around when you act like a jerk? And also at her level of leadership bad communication also worries me. It’s definitely something that makes me lose respect.
+Edit: I lost my old job due to COVID and decided to volunteer while I’m looking for something new.
+Update: Thank you everyone who provided help. I quit this morning via email effective immediately. I really appreciate everyone’s help."
+or3xuj,jobs,2021,7,"Being Ghosted Once I Mention I'm Currently Relocating | Hi everyone,
 
-I’ve received advice from people in my life but I still have so many mixed emotions. My close friend told me being new in the workforce and hating a job is normal and I should just quit, someone else said that i should keep working until another job comes up, someone else said it’ll get better— I TRULY do not think this is the job for me, I’m not sure how else to justify it. I’m someone who values my work-life-balance and I feel like this job is totally throwing me off and making me hate waking up each day. I went from being excited to work to wanting to call in sick because of how bad my anxiety is.
+I graduated from college in June and have plans to move in with a family member in another city halfway across the USA.
 
-I just want to add, my previous job I had the classic new job anxiety but I quickly overcame it and ended up loving the job and the people. So far, I feel NOTHI like that for this job. This is more than new job anxiety....
+I've applied for quite a few jobs and have heard back from 4 places. However, I've been ghosted from 3 of these places once I've mentioned that I haven't relocated to their area yet, but I am in the process of moving. The only reason I've mentioned that I'm relocating is that my college and previous work history is a dead giveaway that I'm not from the area.
 
-Help!!!!!"
-r933p5,cscareerquestions,2021,12,"Has anyone started their own business/ went self-employed? How did you do it and how do you find it? | Thinking about maybe one day going down these routes and looking for opinions on the difference between working for a company and working for yourself/ starting your own business/ going freelance.
+My next phone interview will be this coming Thursday and I'm wondering how to talk about my relocation. Should I lie and say I'm in the area and that I have a planned vacation and can't work right away, should I just avoid the topic altogether, or should I be honest and risk being ghosted again??
 
-Any advice is appreciated."
-qzu29u,jobs,2021,11,"Boss asking me to do things that aren't my job | So today my boss told me to clean the break room. Mind you, this place is absolutely disgusting. It looks like it hasn't been cleaned in years. Mouse poop everywhere that's been sitting there since I started a year ago. Grime built up everywhere.  It was like that when I first started there. Of course they didn't show me it when I started there. I found out how nasty it was after I started. When my boss told me to clean it today I said, ""that's not what I signed up for and you guys make enough money, pay someone to clean it."" I also said if they paid me I would clean it. He looked at me like in shock. I was kind of shocked that came out of my mouth too. I'm sick of him walking all over me. I've been standing up for myself lately and he doesn't like it.
+All suggestions and comments are welcomed."
+mczqg7,cscareerquestions,2021,3,I start in a week but I just got an offer for twice as much.
+r6jrx9,jobs,2021,12,I cried during an interview
+ld9px1,jobs,2021,2,"Shut down by my boss | My boss is usually the nicest person ever, but today she snapped at me. I asked her if she had a few minutes to talk about something and she said ""No, I'm swamped."" It made me feel like I was annoying her or something. Am I overthinking this?"
+n42ces,jobs,2021,5,"I quit my toxic job without another one lined up, what reason do I give in my interviews that won’t give a negative impression? | I had a very high pay, high pressure job in one of the best companies in the country. However, the environment was extremely toxic and was harming my mental health. I eventually decided that the rat-race was not worth it and decided to quit.  
 
- I don't know why I'm asked to clean it when none of it is my mess. I work in a office and I do paperwork it isn't my job to clean up after other people. Also why only me why can't other people help ? Everyone is sitting around doing nothing yet I'm asked to do everything. Their too cheap to hire someone to do it. It pisses me off.
+The problem is that I don’t have another job lined up. I’m actively applying and looking for jobs and I’m aware that it can take up-to 2-3 months to find a job and I’m okay with that. What I’m losing my marbles over is that how do I explain that to future employers?
 
+If I tell them it was due to the stress, they would think that I’m not cut out of their job. Please help me out here, I’m literally losing my sleep thinking about this day and night.
 
-Do you think I should clean it ? I'm fixing my resume up and applying for jobs but I don't want to get fired. I want to quit on my own terms. Also do you think I'm being unreasonable?"
-ojuw95,cscareerquestions,2021,7,"Not sure if I was set up to fail or just a bad junior developer | I started as a junior developer at this small e-commerce company after graduating in MIS. 6 months later they put me in charge as the sole developer for building a brand new e-commerce website on a Magento 2 instance using LAMP stack (html/css/JavaScript/jQuery/php).
+Please feel free to share your stories too, would love to hear them."
+pqq5cg,cscareerquestions,2021,9,"Underqualified for most dev jobs - Update my skills or grind leetcode? | Hi everyone, 
 
-I had little help as my manager is extremely busy and had little to no oversight. I also was the company’s IT help desk, but that didn’t take too much of my time.
-This new website had around 100 products that were complex manufacturing machines, each requiring custom product pages. I had to build all new CMS pages often requiring jQuery/JavaScript, and several small custom backend functionality’s in PHP.
-The project is pushed live as it still fulfills most requirements, but is around 85% completely finished.
+I have a bachelor's degree in CS and 2 years of experience in an amazing mid-size product company making Windows desktop apps. The tech stack is quite outdated compared to the current market standards (C#, UWP, XAML). We don't follow industry standard practices such writing unit tests or Agile. 
 
-Frankly, I’m ashamed that this took me a year to get up to that point from the date it started. I feel that I could have done better. I’ve read that complex e-commerce sites usually take 3 months to complete. According to my software dev friends I was set up to fail, but I’d like to hear what some of y’all think."
-nrl4jp,cscareerquestions,2021,6,"If you dislike your job, make it a (relatively) smaller part of your life. | Seeing a ton of posts about devs dreading waking up and working in the morn. It's going to get worse as things open up and people start enjoying themselves if you're stuck inside all day. If you feel that CS has you feeling down, tied to a screen for 8+ hours a day, take some time to think about how accurate your perception of most jobs is. Are you in a self-fulfilling prophecy? 
+While searching for jobs, most of them seem to be asking for experience in front-end frameworks Angular/React along with knowledge in skills like unit testing, ASP, Spring, Hibernate etc even for junior positions. I just have a basic knowledge of HTML, CSS and vanilla JS and Java but am quite proficient with just C# which doesn't seem to be enough. I have not been getting too many callbacks but I did get a couple of interviews even though I was very very underqualified for their position. In my last 2 interviews when I mentioned  I have never written a unit test their reaction was basically ""Oh? Thats ummm interesting to hear..."". And most other positions don't even seem to even give me a coding test or a phone screen.
 
-This subreddit is _focused_ on CS careers. Don't let it convince you that successful engineers do nothing but code all day and browse subreddits and engineering blogs all night. They develop other parts of their lives with as much intention and energy as they put into their careers.
+Now, should I focus on learning these skills that are hot in the market, or should I focus on grinding leetcode and my data structures? Please help."
+o2di6u,cscareerquestions,2021,6,"What companies have a surprisingly good engineering culture? | Outside of the usual suspects in Big Tech, what companies have good working environments for technical workers that you wouldn't expect?
 
-Having life outside of CS - friends outside of work who don't work in tech, family, hobbies, etc - is very beneficial to a productive 40 year career. 
+Kind of a sequel to this thread: [https://www.reddit.com/r/cscareerquestions/comments/a4mqgs/what\_are\_some\_nontech\_companies\_with\_strong\_tech/](https://www.reddit.com/r/cscareerquestions/comments/a4mqgs/what_are_some_nontech_companies_with_strong_tech/)"
+n8l40v,cscareerquestions,2021,5,"Is staying fully remote as a junior a bad idea? | I got my first junior software engineering role mid pandemic and started fully remote. Half my team is already permanently remote, and if I did go back to the office only 2 other engineers would be there (including my mentor). My company announced that the office will now be completely optional. The only value I see in going back to the office is networking with other employees and meeting my teammates. However, I would prefer to live in a different city where more of my hobbies are accessible. Is the value of meeting people in person and working with them something that will effect my career as a junior developer?"
+ld2504,cscareerquestions,2021,2,"Word of encouragement | I recently got an offer from a Big N company, and I am sitting here a bit dumbfounded. It is honestly something I never dreamed of achieving. 
 
-For most people anyway. There are some people for whom it's just not ""work""."
-r6vlin,jobs,2021,12,[deleted by user]
-p0xjk3,cscareerquestions,2021,8,Stop telling people to stop asking a stupid questions.
-oepl49,cscareerquestions,2021,7,Exiting from a toxic workplace
-ms0emu,cscareerquestions,2021,4,"Are companies even hiring for summer internships at this point? | I’m an second year international student in the US for a CS degree and I’m seeing all my peers receiving amazing offers while I constantly get ghosted by companies. Ive been going down the LinkedIn job board and applying to as many positions as I can since the fall, but I haven’t heard anything back so far. Is it too late for a summer internship by now? What am I doing wrong? Is it time to give up and look into summer classes instead?
+There were many many interviews that I have experienced so far, and a very small handful has been successful, while most of them were flops. I dont think I necessarily did better in the ones that I got an offer for, but nevertheless they wanted me. The only thing that I really can confidently say is that I tried my best at every interview. I felt slightly nervous during each one, let out a huge sigh of relief after every single call, and continued to practice leetcode as much as I can. This time, things just aligned well, even though I just did what I usually did.
 
-Edit: I should add a bit more info about myself I guess
-- GPA 4.0
-- Lots of personal projects and hackathons (nothing too impressive other than a couple of 2nd places at small makeathons)
-- Part of a web dev project team at school
-- No prior swe internship experience"
-rh72ri,cscareerquestions,2021,12,"Is Software Engineer in Test role worth it? | I'm a mechanical engineer looking to make the switch to software engineering. I'm currently in the interview process for a Software Engineer in Test position at Mathworks. I'd be writing test suites for physical modeling applications. 
+For those who are frustrated with trying to catch elusive success, dont worry. If you continue to do your best with integrity and hardwork, it will pay off. Your time will come, and I hope that you will find joy and satisfaction in knowing that what you are doing everyday is helping you grow whether you get an offer or not.
 
-The physical modeling aspect sounds cool, but I'd like to be on the development side eventually. This seems like it could be a good way to get into the field, I'm just a bit scared I'll get stuck in a QE role.
+tldr: 
+the hard work that you are doing now is of value, and someday the world will take notice.
 
-Anyone have any thoughts? Thanks!"
-ngv4yt,jobs,2021,5,"The amount of fake job listings on indeed and LinkedIn are ridiculous and annoying | Basically title says it all. It is so disheartening to apply to a job or see a job listing, and then realize the company is not even real. There are so many fake companies that use the names of actual established companies to confuse and scam us.
-I applied to a communications job and truthfully did not research the company in the moment. I got a call back today and was asked to interview tomorrow on zoom. I said okay and looked back at the job listing to practice my answers and think of any questions I had. 
-I looked at their LinkedIn profile and it seemed strange, no postings or anything. I looked at their website and it was very very basic, and gave little to no substantial information. I also could not find the company address or phone number. Not listed in the BBB or anywhere really. When I looked at their Instagram, I realized this was for a fact a MLM scheme. They were tagged in another ‘marketing’ companies post speaking about creating new branches and what not, and had a bunch of young kids tagged. Its so annoying and im so tired of all these MLM schemes getting us excited just to turn out to be door to door sales and wastes of time.
+EDIT:
+Getting a Big N company was a personal dream and goal of mine, but it does not have to be for you :) Getting a Big N company or NOT getting one should never be a representation of your worth."
+lvxbwy,careerguidance,2021,3,"Any software engineers who changed their career? | I started as a software engineer and moved to London, where I’ve been living for 7 years. I have a consulting company where it’s just me working atm and scaling it is close to impossible due to insane competition.
 
-If you are in the South Florida area avoid these companies, as they are all MLM schemes:
-The Home Run Place, Florida Business Consulting, The Linum Group, MK Revolution, Otown Citi, Market Revolution, Compass Miami Co, The Sulit Group
+I realised that in software development competition has got to insane levels and it will only go up in the coming decade. Also you can easily get cloned whatever idea or product you might come up with. 
 
-And unfortunately im the sure the list goes on and on and on"
-ppzsab,jobs,2021,9,"Can I just Vent About another job Rejection? | It is hard not to take it personally but this is the third time I have been through the final round to only be sent a generic letter...""Sorry but we have chosen to go with another candidate.""  I put so much effort into prepping and I felt the least I could of gotten was, "" hay you didn't make it but,,,,,,""  Everyone gets so philosophical oh maybe it was not your perfect fit etc but people I have a family to feed.  And as for those people (recruiters and hiring managers) that treat you like dirt just want to say let's hope that you don't land up on the other side of the job searching market.  Thank you for letting me VENT got to go back to my job searching platforms and figure out why these people don't like me enough to give me a chance."
-n31128,cscareerquestions,2021,5,"Is Web Development a good starting point in a career for later rotation to positions such as Data Scientist, Cybersecurity Engineer, etc. Or is it better to concentrate on something specific that I want to do in the future? | Hey guys, I'm a CS student, and I spent a lot of time thinking which career path to take.  
+Plus as we all know age is not an advantage in this industry and I don’t want to spend the rest of my life in front of a screen really.
 
+Have any of you switched careers and how was it? Please share your experience I would love to hear.
 
-I started thinking on the other side, getting a job in Data Science, Cyber Security, etc is very difficult without further advanced education and experience.  
-So I decided to go down the road of web or mobile development to start with. And then, when I finish my education, with experience, try to get a job as a data scientist, for example
+I am interested in people who switched from software to something else not the opposite."
+o1mgr9,careerguidance,2021,6,"I don't want to be a doctor. But i became one...now i'm trapped here...where to go? | I somehow lost my way and ended up here, thinking it'd be okay, i would be okay. I don't like the job, i just like the learning. I don't hate it but i feel like i'm gonna kms if i imagine working here for a long time. 
 
-Is it a good decision? or is it better to concentrate on something specific that I want to do in the future?"
-m5lses,jobs,2021,3,Is there a job that pays $400-$500 a week just working online completely ?
-ppksi4,jobs,2021,9,"Don’t grill people about their availability | I had a lady call me up and ask if I was still interested in coming in for an interview for a place that I applied to a few months back and I said yes. We then proceeded to try and find a date and time for me to come in and she asks if I’m available to come in on Monday. I told her that I was working that day but I was available X Y and Z date next week. She asked me what time I work Monday and I told her afternoons for shift relief and closing. She then asked me about Monday morning and I told her that I’m not available in the mornings (I had also made it clear in my cover letter that I was not available in the mornings, that my availability is afternoons and early evenings). She then starts grilling me about why I’m not available. I told her that my husbands business is just getting back up on its feet again now that covid restrictions are lifting in our area and that we are still waiting for one more employee to come back from their leave. so he needs me in the mornings. She then barks at me “Well what are you going to do when you get a full time job?”
+I have plans because i have to (ie. Residency), i can pretend i want to... but if i were to choose again...i wouldn't. I don't know any career to transition to, i just wanna disappear. I went in out of fear and pressure...i was about to quit during my first year but i stayed, believing i would be fine if i work hard. I did work hard, and still hated it.
+I have no savings yet to pursue other things...idk what to do.
 
-“We would adjust my schedule in his store accordingly.” Apparently that wasn’t the “right” answer as I got a very flippant, snarky “fine we will get back to you.”
 
-Honestly, I should have told her that it’s none of her business and left it at that. Instead I told her the truth and she couldn’t handle it. 
 
-For all you young people, don’t ever let anyone try to guilt you or grill you about what your availability is and why it is what it is. If a boss refuses to respect that as early on as the interview process, walk. The job is not worth it and you deserve better. They showed you their true colours right off the bat. I’m turning 31 in the new year and it took me until my mid to late 20’s to figure out that not only do I not deserve that kind of grief, but to actually learn what it’s like to work for a good boss that respects their employees. Once I got a taste of that, I was permanently hooked. 
 
+! Edit: I just want to thank all of you who gave me advice, commented,and even DMed me. Seriously, it made my day much better. I was just crying this morning, feeling frustrated and anxious. So, thank you! I'm seriously googling all that right now."
+n2ihpz,cscareerquestions,2021,5,"How do I become good at self-learning? | Pretty self explanatory title.
 
-Never ever allow someone to convince you that you need to light yourself on fire to keep someone else warm."
-lvf7qy,jobs,2021,3,"My mental health took a bad turn lately and I have to put that over my career at the moment. I’m 26 now and I will need few months before getting back to everyday life. Is it too late to have a career or how do I explain the gap to employers? | I want to give it a bit of a background. I graduated from university in October 2018 and had a mix of marketing and freelancing jobs. I quickly realized I didn’t want to do just marketing or freelance. After my last freelance work I wanted to get back to corporate and took to customer service role. First one was just a plan to get back and the latter was the only one I could find due to pandemic. My goal was to go back to school to get the training I need to get the career I want. Anyways once my contract ended i became really depressed and lately I got diagnosed with OCD. I also want to point out I was diagnosed with anxiety when I was 18, and due to my arrogance as a young adult and just wanting to get a job I always neglected proper treatment that often time I would have set backs due to my anxiety and made doing things extra difficult. 
+I've been in this industry for about a year and a half now and it seems that the most important skill by far is being a good self-learner.
 
-Flash forward to today, it got so bad that now I have to check into day hospital and started taking medications. It’s not that I don’t wanna job, I badly want to work, but now doing the simplest thing taking me a lifetime and the last thing I want is to get a job, and then get fired for not being able to perform to my own standard and then get more depressed. So it’s vital for me to get better first. So I am asking is it too late for me to have a career. My plan is to recover within the next few months and then either do a masters or another bachelor abroad where there’s a better chance for the career I want to work at. But first I want to get better like well, so I don’t have this reoccurring problem."
-oauy2i,careerguidance,2021,6,How do you explain to the interviewer that you spent 2 years recovering from depression?
-log5vk,jobs,2021,2,So i accepted a job and have worked there for a month but i got an email... | I got an email today from a place i previously interviewed at that they’re doing interviews for their March hiring class and they’d like me to interview again. I accepted a job in January doing flight and ground dispatching for an organ and tissue donation non profit. The thing is i already accepted and worked here for a few month. The job is emotionally draining though coordinating transportation of donors to recovery and planning organ flights and such. I just don’t enjoy working with so much death. It can be sad but rewarding too because you know what you’re doing is saving lives. What should I do? The other job pays $10k more a year and is more in sync with the kind of career i want. How do i answer the question “so why are you looking for a job already”
-rfp3tr,cscareerquestions,2021,12,"""We will help you succeed but if you do not perform up to our rigorous expectations we will let you go"", is it a red flag to hear something like that on my ""offer meeting""? | So I recently received a very competitive offer from a series-B startup without a lot of online presence on glassdoor, etc. to research on (just  a handful of reviews which sounds fine). When I had my final interview with the manager to announce the offer to me, he mentioned that the company is a place to learn and make mistakes and they want to help me to succeed but at the same time they expect fast delivery of results and if they see I'will struggle to deliver the results they will let me go.
+I say that because I always thought I'd have someone show me the ropes but in my experience people usually don't care about you enough to explain concepts in-depth and everyone pretty much expects you to learn things on your own.
 
-I am a recent graduate and actually a hard-working and passionate person but talking about ""letting me go"" before even joining the company put a bad taste in my mouth tbh. I am not very experienced so maybe it is normal and appreciated to be forward with candidates like that and maybe I need to develop a thicker skin and not be as sensitive. There were a few other things that made me feel a little bit icky like no one in this company **ever** started their emails with a greeting or anything like that. like if your name is john, the email will be like ""John, please see the attachment regarding your offer."" I feel kinda childish writing this but I don't know why I don't receive a good vibe from my interactions with them. Like I feel more nervous than excited about joining the company...
+I'm currently a DevOps intern and I'm finding it extremely difficult to learn the job on my own, feels like I'm moving at the pace of a turtle while people around me that somehow mastered this hability are moving at the pace of a cheetah.
 
-Again, maybe I am over sensitive so I'd like to hear other opinions."
-qgrwfq,cscareerquestions,2021,10,My recruiter stole my idea and code
-rib04h,careerguidance,2021,12,[deleted by user]
-r4zp4d,jobs,2021,11,"Was confident I was going to be made an offer, but was told that they’re no longer interested. The reason is something they weren’t transparent about, do I reply and let them know? | Hi Reddit, before I start this, I want to preface with saying that I don’t think that this potential employer owes me anything, I am just really annoyed at the way things were handled. 
+Can someone clarify their thoughts about this and give some advice on how to be a good self-learner?"
+oh8pe3,jobs,2021,7,I lost my job unexpectedly and feel completely defeated
+nds63u,cscareerquestions,2021,5,"“Gifted burnout slacker” gets a job offer after 11 months of grinding and applying | I graduated university by leeching off my friends in coding projects and just memorized enough to get my diploma; I had ZERO coding experience/aptitude.
 
-I went through two interviews for a role that I think I am a perfect fit for. After the second interview, I followed up and was asked for references. I provided them immediately, and then was ghosted for about a week. I followed up last week asking what’s going on, and got an email this morning stating that they have no doubt that I can do the job and would be a great fit, but are no longer interested because of other candidates and salary requirements. The language of the response leads me to believe that they don’t want to move forward because my salary requirements were too high. However, this was not communicated to me when I spoke with the hiring manager about my requirements, and there was no mention from them that that was too high, or asked me if I would be flexible. Which, I would have been more than happy to discuss and be flexible because I felt it was the right opportunity. The way that they’ve handled this is a bit of a red flag, but this is a very unique role and I think that it is an extremely good fit and some thing I’ve been looking for for a long time. I also forfeited another potential offer because they had this company led me to believe that I was a shoo-in for the role and now all of the sudden I’m not being considered anymore because of salary. When he asked me, I just gave him the highest number that I would be looking for.  
+My programming journey started by doing LeetCode questions and I just felt incredibly stupid. I eventually was able to understand the logic behind 1 question but I didnt feel like I really progressed. 
 
-I’m looking for advice as to whether I should reply and say that I’m disappointed to hear this because had I known that my salary requirement was on the high end, I would’ve been happy to discuss what their specific range was for the role, but they gave me no indication there was any problem. I understand from a business point of view, if they find someone who’s also a good fit with a lower salary requirements, they are going to do that, but I’m just pissed that they wasted my time and weren’t transparent with me. Is it worth replying and saying that, or should I just thank them for their time and let it go?
+Then I went to Udemy to do some online courses aaaaaaand yup. Tutorial Honeymoon phase. I felt like I was progressing and doing actual programming. Once I wanted to try to do what I’ve learned on my own, I realized, I had no idea how to start.
 
-Edit: I replied just thanking him and let it go. For context since some people are being accusatory in their responses, the first line of my post states that I don’t think this potential employer owes me anything. I just feel as though they should have been transparent that what I was looking for was higher than they were looking to pay. Again, for my privacy and not to give any specific details, I didn’t share the exact verbiage of the message, but they basically had said they know I can do the job and am a great fit but due to salary requirements decided to go in another direction. This, to me, meant it was my salary requirements were the issue for them. Which is fine, then it’s not a good fit, just felt like they could’ve been transparent about their range for the role and communicated with me to see if I was willing to negotiate (which I would’ve been happy to negotiate total compensation because I really liked the role)."
-pkz6i1,careerguidance,2021,9,"Worked my a*s for this job: first week and I’m checked out… Is this normal? | I just graduated from university and got into consulting. It was a big deal for me due to consulting’s recruitment process (target schools, grades, etc.). I worked my tail off to get this job and I’ve beat the odds to get here. In all honesty, this is a stepping stone to other fields I’m targeting but still something I hustled to get.
+Once I decided to make my own projects, (and I emphasize that this is the crucial turning point to start the upswing) things started to click and connect. 
 
-First week started and I’m mentally checked out. It’s remote/virtual and I have no interest in our work except maybe a few niche project areas. No interest in socials, taking initiative during our training sessions, etc.
+I started by literally spending a whole day just memorizing how to create a project:
+npx create-react-app [project name], cd [project name], npm start. Then slowly but surely, I Googled and YouTubed what I wanted to do. It was a simple React Counting app, then I wanted to learn Hooks, then I wanted to learn CSS... it just kept snowballing. Before I knew it, I had my own portfolio website, a couple of projects I’ve completed on my own and I felt ready to apply. 
 
-Is this normal? I feel like I should be in the honeymoon phase, radiating pride, enthusiasm and curiosity. All I’m thinking off right now is exit opportunities…
+Applying is a numbers game. I applied to 10 jobs a day for 3 months straight. I’ve gotten maybe 15 calls in those 3 months. Of the 15 calls, 6 of them gave me a chance with a technical test, and of those 6 chances, I’ve failed 5 of them. The one I didnt fail? I made it to the final round of interviewing only to lose because someone else just had more experience than me. 
 
-EDIT: For those too lazy to read the comments, here are what people are saying:
+I was tired and drained but not too long after that final round silver medal, I got an email offer.
 
-It's normal, as no job is perfect and especially not your first job out of school!
-Give it a sincere shot and leave after no less than six months unless it's absolutely detestable.
-Remote work is really hard for young/new hires so cut yourself some slack.
+I’ve never been so happy to get an offer in my life. All the struggle was worth it. I would also like to say that I identify as a “gifted burnout” and I did therapy to help me overcome my “child prodigy” ego or whatever you wanna call it. 
 
-It looks like I'll be staffed with a team that specializes in a field which I love! I'll stick around and give it a sincere effort for a few months and reevaluate afterwards!
-:)"
-pznuez,jobs,2021,10,"Anyone else just decline a job because it took so long | Declining a job because they took so long to get back to you? This company interviewed me and during the interview surprised me with the “we aren’t really remote and will need you in office twice a week.” Not only that but the office is an hour from where I live. They told me they are interested in another interview and will follow up and will negotiate higher salary.
+If you feel like you’re past your prime or you cant learn to program, learn from a gifted-burnout-slacker like me. You CAN. Believe in yourself. Keep going. Its a marathon, and I’ll see you on the other side of the finish line."
+n1cvti,cscareerquestions,2021,4,"I have just graduated with a degree in computer science, yet i dont feel any more prepared for a career in this field than i did the first day of freshman year. Is this normal or did i do something horribly wrong? What are some must have skills i need before i apply for a job? | All i really feel i have learned in the last 4 years is how to write terminal based applications in java or c# asp.net applications. I dont feel ive learned anything that could really be applied at a career"
+rrmrwq,cscareerquestions,2021,12,"I started my first full-time cs job about a month ago and outside of work I feel so exhausted and worn out. Does this happen to anyone else? | My job is exhausting.  I keep finding when I get home from work I literally have problems finding the energy to do things like make dinner or clean the house.  I even find myself not putting anything on TV because I just don't want to think about what to watch.  It's like my executive function is totally depleted, and even when I try to snap myself out of it I find myself getting stuck sometimes even seconds later.  It feels like my mind has been pouring concrete all day and when I get home the last thing I want to do is, well, anything.
 
-Well every week they update me with “we are still interested and will follow up to schedule the second interview.” It’s been almost 2 months now. I think I’m just going to tell them I’m no longer interested. 
+I was just curious if anyone else has had this happen to them.  Also if any of you have ideas for how to feel less worn out I'd love to hear them."
+kyimaa,jobs,2021,1,I feel too dumb to have a career
+n0rhzh,jobs,2021,4,"GOT MY FIRST JOB EVER !!!! =D | Not very special, I know... But I got my first job! I'm so excited, and it's at such a nice little local place! Gonna be selling lots of craft beers and icees, gahah! ♡"
+lrpbpz,jobs,2021,2,"Got my best paying job yet ($15/hr) (19 years old) | So for context, I didn't graduate highschool, and I've moved around alot and worked many jobs, (restaurants, factories, call centers, lube technician, I've even been a car salesman) but for circumstantial, or personal reasons I had to leave those jobs, but recently I found a job at a small company as an apprentice gutter installer, and so far I like it more than anything else I've done, and I'm making more money than I ever have. So I'm going to try my best to make this work. But  I just wanted to say I'm pretty satisfied for now considering I have a 9th grade education. But of course I know blue collar work such as this is more about willingness to work, and grit, then education.
 
-Anyone else experience something like this? This seems like a huge red flag."
-mplbw0,jobs,2021,4,"Why do employers advertise a salary band if they are only willing to pay the lowest point on the band. | I’ve just been offered a job which had a salary band of £23,000 to £32,000. I knew that it would be not at the top of the band, which would be a salary decrease for me but the job is what I want to be doing, but I didn’t expect there to be no negotiation from the bottom of the band. Why advertise a band if you won’t come up from the bottom. Why waste people’s time."
-nf165r,jobs,2021,5,Life will get better
-ri6v6n,jobs,2021,12,"Are companies actually hiring and not just talking the talk? | I've probably sent out 1,000+ applications in the past year or so leading to a few interviews. Some get to the final round to be disqualified. Others never respond or respond 9 months later. It takes a toll on your mental health when you feel useless sometimes or no one wants to hire you. The ones that do are severely underpaid."
-nv2ejz,jobs,2021,6,"I got my first job at Walgreens! | So I got my first job at Walgreens and I’m starting soon which is really exciting! I’ve never worked before, so I don’t really know what to expect. Does anyone have any tips or things I need to know to help me out when I start working? Anything is appreciated."
-kq7z63,cscareerquestions,2021,1,"Junior Dev - I'm being told everywhere(including reddit and my job) to ask questions, but whenever I do, I'm being met with unnecessary hostility that makes me feel like an idiot. What do? Is this normal? | So I'm working in this company for 7 months now. For the most part it has been great until I've been moved to a project in an external company(feeling like a freelancer...) I've been given a large, high priority task in an extremely abstract and  complex application with unrealistic deadlines.
+To add: I live in an area of the US that has pretty crap wages so this is doing pretty good for my spot in life."
+m7oq6h,jobs,2021,3,Who else does not want to go back to work?
+of986n,cscareerquestions,2021,7,"How much should I be getting done as an intern? | Hi!  So I recently got an internship at a very small startup company.  As of right now, my bosses haven't really given me any set goals, rather they've told me to get familiar with the programs/tech they use.  They're currently out of town but get back next week, so how much should I have gotten done by then?  Should is being just ""familiar"" ok, or should I really try and master everything?  Also any tips in general (very nervous as this is my first internship) Thank you guys in advance!!"
+pvrlxj,jobs,2021,9,"Would I be wasting my time by going to college? | I keep hearing about how people can’t even get a job in the career path they went to college for. A friend a mine has a masters in computer science but can only seem to find a customer service job that has nothing to do with computers. I’d like to be either a blood spatter analyst, biologist or something to do with science. Right now I have a job working 56+ hours a week making only 14.50 an hour. It isn’t much. And it is a general labor job. I know I could be doing something better with my life. But can I? Is it really hard to find a job after getting a career? I know it isn’t instant after getting a degree. But is it possible I may never get a job that I got a degree for?"
+l0bipx,cscareerquestions,2021,1,"Prevent Burnout - its common! | Hey guys, one of the most common posts I see at least once a day is about burn-out, wanting to quit, not liking their job, etc. - even myself I have posted about being burnt out and being overworked.
 
-I struggle, I struggle hard and even though I'm doing my best, the requirements either change, are not mentioned during meetings, or overcomplicate things to the point of me having to plan the structure for days. My problem is that I basically have noone to ask for help, Im alone on this, I have 0 guidance and I keep getting behind.
+It's sad that it's so prevalent. As programmers, we are the REAL workers actually ENGINEERING and INVENTING our companies' products and services - and the non-technicals think it's all easy-peasy work and that we're all just 'wizards' that type stuff.
 
-To be truthful help/guidance has been offered to me numerous times, but whenever I actually ask for it it goes something like this:
+It's straight up not. It's mentally stressful - thinking of an entire application's logical structure, organization, team members, refactoring, deadlines, more refactoring, features, git, deployment, design, testing, merge conflicts, frameworks, bugs, etc, it goes on. - and can be physically demanding - no sleep, no eating, lots of caffeine, hygiene problems, eye problems, back/neck problems etc - all in the name of 'getting work done'.
 
-Me: how should the relationship between A and B affect C? 
-SDev:  Why didn't you ask me for D?
-Me: What about D?
-SDev: wooooow, well that sucks, what have you been doing all that time exactly? Look it up and get to work we have a deadline.
+For those that have been burnt out, how did you get through it? How do you prevent it? How can I see before entering a job if burnout is real in that company?
 
-Me: gets extremely anxious, spends hours on looking for a relation between A,B,C and D which turns out to not even exist.
+I want to see less burn out posts on here and more happy stuff. lets get this merged.
 
-0 progress for an entire day. Next day manager knocks on the door asking about my progress. 
+&#x200B;
 
-Notice that my original question was never actually answered. It's an endless cycle of anxiety and feeling like a failure.
+EDIT: 
 
-I'm absolutely terrified of asking questions to my manager and senior dev's because everyone seems to think ""he probably is slacking off all day, that's why he doesn't know anything, lemme make him feel bad about that"" rather than ""let's answer this question real quick, the feature will be done faster and everyone will be happy"".
+Thanks for commenting for those that did - I see a common theme among the comments:
 
-A week ago I've almost had a panic attack before weekly meeting because I always have to explain the reasons behind my failure, instead of showing successfully developed feature or at least a significant progress.
+\- Truly Dedicate Hours to Work and hours to free time - like no touching computer/coding at all in your free time.
 
-I feel slow, anxious, burnt out, terrified of meetings, scared of going to work.
+\- Dont take on too many tasks - humans can work on one thing at a time. Keep at least a basic to-do list and if a new task is going to you - say no that you are too busy; no time. It's ok
 
-I'm also extremely anxious about being fired, it's an extremely hard situation due to the pandemic and finding a new job could take quite a while. I earn very little(I can save like $100 a month). I feel defeated.
+\- Know your work environment - are your teammates feeling burnt out too? or your future/possible team mates? Talk with them to make sure before their work gets dumped on you!"
+kusuk2,jobs,2021,1,"Accepted an offer for a new job, after months of searching! Stay positive! | After nearly 10 months of being unemployed, I finally got a new job. It has been a rollercoaster ride with the COVID pandemic. I lost my first full-time job after graduating, which was working at the front desk of a FinTech company.
 
-Do you guys have any advice on what to do in a situation like this?"
-qbgqp6,jobs,2021,10,"AMA with Rob Barnett, the author of Next Job, Best Job."
-rfub26,careerguidance,2021,12,[deleted by user]
-m3azjb,jobs,2021,3,"Graduated in December. Father thinks there's something wrong with my resume/CV instead of the job market. | Despite the ongoing pandemic and the subsequent effects on the economy, after 180+ applications, my father is getting irritated because I ""should have found a job by now.""  I already had my resume optimized by a professional and still no positive news. Its becoming extremely frustrating dealing with him insinuating im not trying at all."
-o040d2,cscareerquestions,2021,6,"Worry that I'm gonna get fired soon | I'm a new grad starting my first job out of college 2 months ago. The company I work at is a well established company. However, I feel like onboarding has been lacking. I only have 1:1 with my mentor once every week. Just a week ago, he announced to the team that he'd be leaving the company. I'm now swimming all by myself. 
+Since July, I had been collecting unemployment and applying to jobs on a weekly basis and trying to find any source of work that will pay me more than unemployment does now. I finally found a job working for an after school program at a school, something I had done previously for 4 years. It's only part-time at 30 hours a week, with no benefits, but it pays more than unemployment does, so it is a start!
 
-So far the team has assigned me with some tickets to work on, but I keep running into bugs and blocker that it keeps delaying my code being pushed out. I really want to ask for help but with WFH, some times I find it difficult to show a bug with enough context over messages. My coworkers also seem like they have a lot on their plates to actually help me out. 
+For me, I am just taking a deep breath and not worrying about anyone else, or whether they kept their job, or how much someone else gets paid, and whether it's more than me or not. With the COVID-19 pandemic, many people are going to have to take a step back and take on roles that aren't in their field or that they are overqualified for.
 
-I currently sit on a ticket that was assigned to me 2 sprints ago. Last sprint I thought I would probably have those tickets done quickly in this sprint but I continue to run into new bugs and errors as the code gets deploy. I didn't think that such trivial tickets would get delayed that much. Not only that, being young and naive, last sprint when asked during sprint planning if anyone would want to take on more work, I volunteered to take on more tickets thinking that the old tasks would be done quickly. Another sprint is approaching but some of my old tickets aren't yet finished. I can't stop thinking that I'll get fired soon if this continue."
-pp8bs7,cscareerquestions,2021,9,"[OFFICIAL] Salary Sharing thread for NEW GRADS :: September, 2021 | **MODNOTE:** Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+Definitely nervous about starting a new job though. I haven't had very much social interaction(other than recruiters/interviews), or really any other social contact outside my inner circle. Trying to stay positive through all of it though! I got through a lot of pain and suffering during this pandemic and you will too!
 
-This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
+&#x200B;
 
-Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. ""Adtech company"" or ""Finance startup""), or add fields if you feel something is particularly relevant.
+EDIT: I graduated with a degree in Marketing. I've applied just about everywhere, and I showcased my portfolio, with no answers from any recruiters. But a lot of my previous experience before graduation had been in education, so here I am ""working backward""."
+nbxaa4,careerguidance,2021,5,"Dad has been depressed and unemployed for 6+ years after his business failed. Is it too late for him to find a job to keep him a float? | Dad is 62 years old. After his business went bankrupt about 7 years ago, he tried searching for employment but had a really rough time. He managed to get a few temp consulting gigs but since then he spiraled into depression and alcoholism, living off his savings. He’s running out of money and I wasn’t to try and help him climb out of the hole he’s dug himself into. He just does odd jobs for relatives to keep food on the table. 
 
-* Education:
-* Prior Experience:
-    * $Internship
-    * $Coop
-* Company/Industry:
-* Title:
-* Tenure length:
-* Location: 
-* Salary: 
-* Relocation/Signing Bonus:
-* Stock and/or recurring bonuses:
-* Total comp:
-        
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+When I talk to him about applying for something, anything, he’s too afraid of the judgement for such a long period of unemployment. Any tips on how to move forward?"
+pi47ww,cscareerquestions,2021,9,"Is a degree worth it if you already made it into the industry? | Hi all. I recently accepted my second job offer as a software engineer. It’s a really good position with a low 6 figure salary. Before this I was working at a startup for much less. I’ve got about a year of experience at this point.
 
-The format here is slightly unusual, so **please make sure to post under the appropriate top-level thread**, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, Aus/NZ, Canada, Asia, or Other.
+My current highest level of education is a GED and some college credits. Assuming I continue to do well at my current position, make sure I have good references etc, is there any reason to pursue a degree career wise? With only self teaching I’ve already passed the six figure mark, and I’ve gotten multiple job offers so I know it’s not a fluke. And no connections in the industry or anything to help me get here.
 
-**If you don't work in the US, you can ignore the rest of this post.** To determine cost of living buckets, I used this site: http://www.bestplaces.net/
+I was prepping to start at WGU in January just to check the box and this actually still makes sense to me to do, but things are going so well maybe it’s a waste of effort and money? Let me know your thoughts!"
+pwag6d,cscareerquestions,2021,9,"I've lost all motivation to work and I don't know what to do |  I worked hard at a small university, got a decent internship, and landed a job at FAANG. But then it all just went downhill. The project I'm given is something from 6+ months ago that 5 people have jumped ship after working on partially because it was just too much of a mess to implement. Sure some of the work is done now but I get bogged down having to solve bugs they left behind, or debug things i barely know about because my predecessor's code reached production. I hate feeling behind in my work and I got dealt the worst hand for my beliefs. 
 
-If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click ""Cost of Living"" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150]. (last updated Dec. 2019)
-        
-High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
-        
-Medium CoL: Orlando, Tampa, Philadelphia, Dallas, Phoenix, Chicago, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
+ Between trying to learn the codebase, the technology, and stay on top of other work related activities I just want to throw in the towel. Currently been stuck on some ticket for over a month because I keep getting interrupted with higher priority tasks and have project leads hounding me. What do I do? This is supposed to be the dream for computer science undergrads and its just an awful experience... "
+rlssxt,cscareerquestions,2021,12,"[Tech Consulting] What has the biggest impact on promos and career development at the junior levels? | Aside from doing your job well, what do you think are the most important things one should focus on at the junior levels in tech consulting to be considered for a promotion (Analyst - > Senior Analyst) or raise? 
+Out of the factors below, what matters the most? Maybe other things I have missed? 
 
-Low CoL: Houston, Detroit, St. Louis, Baltimore, Charlotte, San Antonio, Pittsburgh, Cincinnati, Kansas City"
-rjwdar,cscareerquestions,2021,12,Got a year of spare time to learn. The catch: I don't have any internet access for most of it.
-rlh0yv,careerguidance,2021,12,Should I keep my job as data analyst that pays 150k but is not fulfilling or chase a job that suits me more but pays significantly less? | I have always dreamed about setting up my own coffee shop or something similar. I enjoy the simple routine work more than crunching my head on Numbers. Is it just plain stupid to leave a decent paying job to pursue this? Is there like a break even point where one should accept the work (which is fine in terms of workload and hours) for what it is to build financial capital? Any arguments for or against are welcome!
-plou56,careerguidance,2021,9,[deleted by user]
-o3k8a5,careerguidance,2021,6,"I feel guilty but is it okay to leave after a promotion? | This is a wall of text but I tried to make it as short as I could. I’m just not sure what to do and could use advice from someone who doesn’t have personal ties to me or the matter. 
+- industry related certs / getting specialized 
+- networking within the company
+- office politics 
+- client feedback
+- chargeability 
+- engaging in internal initiatives at the company
 
-I have been with my company for a few years now, it’s been great as a job. 8 months ago I received the supervisor promotion I worked towards and felt happy and confident. I had a wonderful boss, a great position, great pay, and even moreso, flexibility to do whatever I wanted outside of work to gain traction towards the future and career I actually wanted. I was in a great place in my life, most comfortable I have ever been. That lasted a good 5 months. 
+I'm a fresher in tech consulting and see people who are absolutely terrible at tech getting fast track career development and people who deliver, are strong techies without even a raise and underpaid. So it must be absolutely more to this than just doing a job well. 
 
-Around 3-4 months ago my boss pulled me aside and let me know they were going to a different division after 8 years in the office. This left me with the choice to go for another promotion or let someone from outside of our office take over the spot. The issue with this is that my office is the only of its kind companywide. We do work that no one else would know how to do unless they learned from within. As it stood, I was the only person who knew the reports, the work, and was the most qualified. I worried that if I let someone else come in then it put my team’s morale and confidence in jeopardy and I would still be left to do the job without the pay, title, but all the responsibility while teaching someone else from the ground up. My boss had confidence that I would succeed and that I was the only viable choice. So I started the process of taking over the spot despite telling myself from the beginning that I never wanted it. The job comes with a boatload of responsibility and a new boss who is notorious for lashing out. I did the job for a month and a half before getting the actual promotion as “practice” and convinced myself this is what needed to be done for everyone’s sake despite my own feelings. I wasn’t happy but I thought I could push through it. 
+What advice would you give to analysts who want to see good career development? 
 
-I finally did the interview and got the promotion despite ny new boss feeling like I was a risk, we all knew I was the only real option, but I still felt confident and i was just nervous but would be able to do it. I pushed for a colleague that I trusted to be my right hand man and to take over my old position despite my new boss disapproving greatly. This was the best choice for everyone to succeed and I was giving myself a year until I look for something else.
+Also, how do you handle offers from external tech companies if they are substantially higher than what you are making now? Do you try to use them as an argument, that based on the offers you're getting your market value is xx and you think you're underpaid and make them match those offers or it doesn't work? And it's better to just take the external offers? 
 
-Now a month later, 2 weeks into having the actual title, I hate my job with every fiber in my being. I work 60 hours a week to maintain the workload while we get fully staffed again, I am the only person in the office that is supposed to have the answers but I feel like I’m winging it half the time, I’m making mistakes, I have people hounding me from every direction. I have spent every day in tears out of stress and anxiety. I made a huge mistake and brought others into it.  My partner has spent every night and day comforting me through panic attacks and trying their best to get me through the day. My job has been on my mind 24/7, I don’t even have the energy to do anything outside of work. All the hobbies I had are unenjoyable because I either can’t focus or I’m too tired. I feel so horrible for not only doing to myself but for dragging others into it. 
+Thanks for your inputs."
+nwdp8s,jobs,2021,6,"Rejection after rejection | I’m really trying so hard to remain positive, but rejection after rejection sometimes just takes a toll. I know many are in the same boat, just know someone out there is truly praying for you all to get job!"
+omhtpz,jobs,2021,7,"My town's Mcdonald's posted this in their workplace today, thoughts?"
+mpgx4c,cscareerquestions,2021,4,"Is it normal to feel not good enough in your internship? | I'm currently in a dev internship in a large software company for 4 months, so I'm about halfway through my duration. I was very well prepared for the interview, and did well enough that I expected to get the position. I'm enjoying it and very happy to be in this internship as I'm learning a lot, but I can't shake the feeling that I'm not good enough for the tasks I'm assigned. 9/10 tasks I do I need to ask a question at some stage, or get help, and I really feel like I'm wasting a developers time/annoying them with my questions. The tasks I'm doing currently feel very daunting, I usually need someone to point me in the right direction when getting started on them. It makes it difficult for me to feel like I'm impressing anyone enough for me to get the job at the end of this, especially when there are many other interns. I felt I was middle of the pack earlier but now I'm not too sure. Whenever I do manage to do something completely by myself I feel great, but extremely deflated whenever I have to give in and ask for help.
 
-An opportunity came up where I am able to interview for a job that has something to do with the industry that I actually want to work in. It’s less responsibility, it interests me, and while it would be a pay cut I do not mind. The only issue is that I’m feeling guilt for wanting to leave in the first place. For the past 3 months I’ve convinced everyone and myself that this was good and I could do it. The supervisor I set up knows virtually nothing and I fought for them to be there, and now I want to leave. My new boss would absolutely hate me.
+I guess the reason I'm making this post is to ask has anyone had similar emotions to these, and if so how did you deal with it? Please share your stories. I can recognize they're completely irrational ways of thinking/feeling. On a related note, what things did you do to be a better intern in general? Or perhaps more concisely how do I lay a path for myself to get better?"
+l2wg1s,cscareerquestions,2021,1,"School assignment: Agile development survey | Hi!
 
-I don’t know what to do. I feel guilty for wanting to leave because it puts everyone in a bad spot. Some people i consider friends. Everything I have done has been to keep other people happy but I am suffering for it, I even feel guilty for not being stronger. I feel selfish and weak for wanting to leave but I don’t know how long I can do this until it gets better/if it gets better."
-pha6dc,jobs,2021,9,What is wrong with me?
-prtba7,jobs,2021,9,"Why are people underpaid? | I like a lot of people are underpaid and it's not ok. I've worked several jobs since I was 15 and I'm 30 now. I've worked mostly in healthcare and have a degree in healthcare. You'd think with my experience and degree it would be a semi-easy to find a job that pays decently. Well, it doesn't lol. It has to do with several factors. But my main rant is even with people who have medical-related jobs around this area and even in bigger cities where I live pay people $13-14 or less an hour. You can make that at fast food places. I recently had to move and find a new job. When I was interviewing it was ridiculous how little pay I was to be given for work. And there wasn't negotiation it was everyone regardless of experience makes this and you work nonstop. Wtf is wrong with companies. 
-I grew up in a small town in Alabama I made minimum wage when I started working it was less than 7 dollars an hour. Then went up to 7.25. But even when I was 18 I worked at a hospital I made $9.50. When I was in college I worked for another hospital made $13.75. 
-My nephew recently graduated from high school and started to look for jobs. Someone my mother knows reached out he's over parks and recreation in a better-off higher-paid area. That man makes 60 dollars an hour being over parks and recreation for a small city that has money. My nephew was supposed to start at $11 which no one can live off of so they raised the starting rate to $15. It's frustrating to work half your life and get a degree only to be played with and not get paid what you deserve. I see people struggling and it pisses me off. 
-Working for little payoff is frustrating. People shouldn't have to have a main job and a side job to pay for things they need. Or be able to save money."
-pxx57t,cscareerquestions,2021,9,Thoughts on the Dev Degree at Shopify?
-ldfp0o,jobs,2021,2,"Almost got scammed on Indeed | Beware when looking for jobs online. I almost got scammed that I reported it to Indeed. I think it is a scam because they were posing as a Food company (initials: CF) but in the email they sent me, it was with a Finance company signed by a guy with the initials SW (the website is ended with .me and they said they were located in Cyprus). In the PDF job description they sent me, it seems like they’ve were trying to obtain confidential personal bank account information during the “14 day trial period.” So I told Indeed to Please block them. I hope this post helps people be aware of job scams online. There are countless scams online even puppy ones. Just be cautious and extra savy."
-njuzby,jobs,2021,5,"Most job posts out there are fake - thats why you cant get a job. | Oh there are 20 000 Jobs posted in your Region? Why then cant you get a job after sending out 100+ resumes? Because most of them are fake. The same job is posted on 5 or 10 different websites - and suddenly the 20 000 Jobs posted become 5000 in reality.
+We're doing a school project on agile development and we have created a survey that will be a part of this project. If you work in tech or any other field that works in agile we are looking for some statistics to use. Any answers would be greatly appreciated and I hope you all have a great friday and upcoming weekend.
 
-But wait - of these remaining  5000 ""real"" jobs half are fake posts made deliberately by the firm/corporation. And suddenly the supposed 20 000 jobs in your region shrink down to less than 2000.
+Link: https://docs.google.com/forms/d/e/1FAIpQLSfONsISDyZwS0rv8GxRL99fv-NAK7ZvSft1iH1hjlJboe7o4A/viewform?usp=sf_link
 
-Why would companies do that?
+Anonymized results of this survey will be posted when it's concluded, sometime next week. 
 
-– Fake job postings exist so that employers can gauge the current  talent pool. The number of  applications can be a valuable pointer on what to pay a person for a  given job.  It also is an indicator of how easy that person is to potentially replace.
+(I asked mods if this was okay and got a positive response, thank you mods!)
 
-– Fake job postings exist so that companies can get a back-up for  your position and keep resumes on file. Since we already know that every  job is temporary, an enterprising employer might be stockpiling talent in case you make a sudden exit, or, are asked to make an exit.
+Thanks alot!
 
-– Fake job postings exist to make it easier for nepotism and other unfair hiring practices to occur. When the boss wants his nephew hired it’s not always cut and dry. In many organizations, the company needs  to “look outside” for suitable candidates. Searching externally for a  candidate can also satisfy any potential Equal Employment Opportunity  (EEO) mandates.  This is a quick and dirty way to appear fair.
+Edit: I know I said this week but I have not had time to complete this assignment yet so I will need a little more time to complete it. Thank you all for participating, I will post results as soon as I can - I promise!"
+pte5vd,jobs,2021,9,"To those if you who do prospective employee interviews as your job, tell me about an interview where the candidate knocked it out of the park. | I have a few interviews lined up and I'm trying to do things a bit differently. I haven't had much interview luck in the past, so I'd love to hear stories of some interviewees that really stood out to hiring managers!"
+ldb3f0,cscareerquestions,2021,2,"Is it normal for Junior dev/college hires to be slow? | I started my first job out of school at a big automotive company a couple months. I started my first sprint 2 weeks ago and I feel lost and discouraged. I have been asking experience devs for help for almost everything. They are always eager to help, but I feel like I’m just really slow and can’t do anything unless they hold my hand or tell me exactly what i should do. To top it off, I had limited experience in the library we are using so it’s even more challenging for me.."
+r355l7,cscareerquestions,2021,11,Do you guys ever worry about US salaries?
+m4kqax,jobs,2021,3,After a year of searching I finally got my first job | Really nervous I work at Amazon for now any tips I should know??
+oa91rz,jobs,2021,6,"Interviewer told me I can “just call my dad up” if I need any help | I think the interviewer felt like an asshole when I told him my dad died years ago. 
 
-You cannot get a job because most job openings do not exist. Sure there are some jobs that are not posted despite beeing avaliable but these are the minority. The sad truth is that most jobs that are posted out there are fake and dont exist. Coupled with the ridiculous requirements companies demand nowadays, thats the reason why people cannot find a job."
-rowrth,careerguidance,2021,12,"Should I pick Work/life balance or career/money? (25F) | Hi Redditors,
+But this was one of the many questionable comments made from the interviewer. They also told me I needed to be “starving” for this position. At first I thought they were speaking metaphorically but after they said it a few times, I think they actually meant starving so I’ll work harder for food. When I told them my work history, they also made an assumption that I was very young when doing those jobs and asked my age. It was all around one of the worst interviews I’ve had.
 
-Long story short I (25F) got two job offers at hand, but I can't choose between them and I need your advice.
+Edit: wanted to add that when I asked what the base salary was, they then said they didn’t know and asked me what my current rent was.
 
-Offer#1: AML officer at a big bank but in a different city (would have to relocate) + great salary but veryyy low work/life balance (1 days off/ 6 working days). 
+I’ve had very few interviews, but I can tell that this isn’t normal and a major red flag. Just wanted to share how absurd that comment was. I couldn’t believe it until after left the interview."
+owk3ud,jobs,2021,8,"Please don’t give up!! The job hunt is tough but you can be tougher!! | Hi y’all! I’ve been following this subreddit for a while. I left my last job in November and since then have been struggling with health and finding a good job with survivable pay. I mostly have warehouse and customer service experience. I am bilingual. 
+I applied to over 80 jobs at this point and only had minimal interviews. After so many months and almost losing hope, I stumbled onto a sign in a local shop and applied. I interview Friday and by Sunday I was employed!! 
+It’s been one extremely difficult journey but I am very happy that I am finally able to work again. Do not give up!! Keep pushing until you find a job that you love and will help you keep food in your belly and a roof over your head. 
+Have someone read your resume, practice your interview skills, and take that information and build a new resume. Gain confidence in YOURSELF. Stay strong everyone"
+r6lkro,jobs,2021,12,"Am interviewing. I use a cane due to a medical condition. Got asked in a phone interview follow up if the cane is “just a temporary thing or permanent or…?” | Like, I know it’s the elephant in the room, but I straight up told someone about it during my interview and they still asked this.  I am still in the interview phase with them and I’m not sure if this question is inappropriate or just “oof.”  
 
-Offer#2: back office at a new government entity in my city 15 mins drive from my home + average salary, but considerably lower than the first offer, amazing work/life balance (2.5 days off/ 4.5 working days).
+My answer was a “Yes, but” and I offered the idea of me using a rollator at work instead.  A rollator is like a walker on wheels with a seat you can rest on.
 
-Basically, at my age should I go after work/life balance or the good career/money?"
-qupwpj,cscareerquestions,2021,11,"Just got a job offer with a 66% raise. Can't contain my excitement. I have to share! | My apologies if this sounds like a brag post (it honestly kind of is. I just want to share my excitement).
+I’m just feeling awkward and tired.  This is the 2nd time the cane’s become part of an interview in a bad way.  No discrimination when hiring my foot.
 
-I was making pretty good money with my first job out of school. I was saving well and living pretty comfortably (single dude in his mid 20s with 0 debt), but work was a little boring at times. I was reached out by a recruiter on LinkedIn, decided to go through the painful interview process and they extended an offer!
+Sorry.  Just feeling a bit salty from all this rejection.  At least they called me back.  All the other applications I’ve sent out are just floating uselessly in the wind.  Sigh.  I really hope things get better soon."
+payqsw,jobs,2021,8,"I finally landed a job. I told myself I wasn't gonna do this kind of a post, but here goes: | TL;WR After an 18 month search I finally landed a job. As cliché as it sounds, don't give up!
 
-They gave me an offer I'd be stupid to say no to, and now idk what I'm going to do with my new salary. I would have accepted the job for less, but I wasn't about to tell them that lol.
+As recent as yesterday I was still getting annoyed whenever someone posted to this sub stating they landed a job. I saw it as bragging, and maybe that's what I'm doing here but not trying to. Rather I'll tell you my job hunting story to try to instill some hope and validate your feelings. 
 
-I'm kind of nervous for my new job, but excited for the opportunity.  
+Everyone frustrated with the seamingly endless job search experiences some level of anxiety and depression. It starts as simply fear of the unknown and decreased sense of self worth. Lack of employment quickly plays a heavy toll on your mental well-being. Your mind starts to become poisoned with negativity and dread about the future. It's really easy to slip into a skewed perspective and see everything as hopeless. Maybe not at first, but dozens or even hundreds of applications into the process and no amount of confidence can stand that much rejection.  
 
-Thank you for reading my post and I hope everyone a great bright future! (both professionally and personally)"
-ox366q,jobs,2021,8,Turned down a full-time role
-ozd6os,jobs,2021,8,"Employers please be honest with potential candidates! | Just wondering if anyone is experiencing the same issue as me. I see a job posted on Indeed and it will say $15 an hour and shift time 7-3:30pm and when you get to the interview (after sitting for 30+ minutes waiting to be interviewed like my time is not as important as theirs, but you better be on time to the interview!) you are told the job starts at $10 an hour and we need you to work 12 hours a day 6-7 days a week. I just don't get why employers think people will still take a job that is nothing what they described in the original job posting. It almost feels like I'm getting the bait and switch routine and wasting my time completely. Is anyone else experiencing this?"
-ps0il8,jobs,2021,9,"I GOT A JOB!!!!!!!!!!!! | 🍀🍀🧁🧁
-Omg y’all seriously wtf 
+The human brain is resilient and adaptive, but with diminishing returns and as time goes on wants turn into needs and eventually, desperation. This job market is brutal and nothing is fair or equitable. I feel my mind has become numb to emotion through this process to cope with rejection and feeling powerless. I am grateful I finally landed a job but it shouldn't have been this hard. 
 
-After applying to 9999999999 places 
-And 7557543 interviews
+I applied to over 400 places, 78 interviews, three rescinded offers, but finally signed an offer letter yesterday. I know nothing is completely secure (I could still get laid off or lose my job) but I feel hope again for the first time in a long time. 
 
-Watching YouTube videos and making an interview playlist 
-Learning how to lie 
-All the driving 
+All that to say, your feelings are normal and valid, but don't give up. Persistence is key and resilience is how you will land the job. Don't let the rejection own you."
+rqu4nd,cscareerquestions,2021,12,Why do people say tech is not friendly for older people?
+n84773,careerguidance,2021,5,"Is it better to just be unemployed? | My job hired me a month ago and from my experience so far, they completely mislead me. We just found out that in person work will begin in two weeks and I must commute an hour to work all day in the office every day. Up until this week, I was being continually told that we wouldnt be in person until the end of the summer. I also am making minimum wage doing an office job that requires a bachelors degree. I am living at home with my parents and I am wondering if it would be worth it for me to just quit and start the job hunt over again rather than putting my parents at risk for Covid for a job that severely underpays me. What should I do? I figure I wouldn’t be able to put this on my resume if I quit in the first two months."
+p71tue,cscareerquestions,2021,8,"I bombed out | I made it to the 3rd round, then bombed out.
 
-All the job searching and emails and phone and zooms and conversations and interview questions over and over……and the blues and the worthlessness..and the ghosting and no follow up and rejections and regrets… 
-I got a work from home claims specialist job!!   
-Then I thought I’ll get experience here then work for major insurance company!!!!!  
+My mistake -- I didn't study everything I put on my resume.
 
-I also LOVE being able to stay in the comfort of my own home and with my dogs!!!!!!! 
-I can see them and not leave them all day!!!!! 
-The Christian faith and His timing is real!!!! Trust His plan!!!!! 💝💝💝💝"
+The new trend these days is to be a leetcode master. But not every company put so much stock in leetcode, because really leetcode only makes sense for FAANG. But many companies love leetcode anyway.
+
+So there are now two styles of interviews to prepare for -- leetcode, and traditional. I respect the traditional approach, and I think leetcode is bullshit (you can disagree, some people believe in leetcode and that's fine), but now we have two paths to prepare for.
+
+I've been practicing leetcode everyday that I didn't wok on the traditional stuff, which is to know what you put on your resume very well.
+
+I have things on there from years ago. It's not uncommon to work on one thing because your boss told you to, so you did your research and knocked it out. Then you never touch it again. Someone asks you about it 5 years later... um... yeah I did that, but I don't remember what I did.
+
+They were nice, they keep pulling back the question to more and more generic because I don't remember. But that's just the interviewers being nice, being nice != job.
+
+So moral of the story, sure, grind that leetcode like your life depends on it. But before the interview, make sure you go back and study everything you put on your resume.
+
+Oh well. It is what it is. I haven't interviewed for a long time. First one usually turns out pretty bad. I remember awhile back before leetcode was a thing, I was interviewing quite a bit when I was looking. Answers were just flying out of my mouth because interviewers tend to ask the same questions. Like everything else in life, the more you do it, the better you get at it. Maybe I should start doing those mock interviews.
+
+Best of luck to you all. To me too, although I'd put it towards winning the lotto. Yes, I know the odd. It's what happens when desperation > math knowledge."
+lw0uq7,cscareerquestions,2021,3,"Is there anyone here who spends 14 hours a day using computers, phones, and tv? | not just programming, but everything."
+qjsble,jobs,2021,10,The Indeed commercials are so unrealistic 😂😂
+p2miwz,jobs,2021,8,"Feeling good after quitting job | I just turned in my letter of resignation and ended things in a good note and did not burn any bridges. The moment before telling my boss I’m quitting , I had so much anxiety but right after I finished our conversation, I’m feeling the most relaxed I have in weeks. Is that normal ?"
