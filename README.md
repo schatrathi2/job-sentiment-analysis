@@ -1,6 +1,6 @@
-# Job Hunting Sentiment Analysis
+# Job Sentiment Analysis
 
-Analyzing sentiment trends in job hunting discussions on Reddit over time.
+Analyzing sentiment trends in discussions about jobs on Reddit over time.
 
 ## Overview
 
