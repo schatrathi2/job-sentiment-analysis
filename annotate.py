@@ -15,7 +15,7 @@ def annotate(df):
         num += 1
 
 def main():
-    year = 2022
+    year = 2019
     df = pd.read_csv(f"annotate_data_{year}.csv")
     annotate(df)
     df.to_csv(f"annotated_data_{year}.csv", index=False)
